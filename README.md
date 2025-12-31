@@ -24,6 +24,7 @@ This repository contains "Briefs"—short, high-fidelity critiques and proposals
 *   [Brief 001: The Man-in-the-Loop Fallacy (The F-22 Metaphor)](docs/Brief-001-The-MITL-Fallacy.md)
 *   [Brief 002: The Audacity Protocol (Variance Budgeting)](docs/Brief-002-The-Audacity-Protocol.md)
 *   [Brief 003: The Steganography of War (Chunyun & 2028)](docs/Brief-003-The-Steganography-of-War.md)
+*   [Brief 004: The Sovereign Operator Requirement (Greek Governors)](docs/Brief-004-The-Sovereign-Operator.md)
 
 ---
 
