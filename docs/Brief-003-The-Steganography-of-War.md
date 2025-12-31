@@ -28,7 +28,7 @@ The PLA will not invade Taiwan using a dedicated military supply chain that can 
 If the US Intelligence Community (IC) is looking for “Trucks” (massed convoys), they will see nothing. The logistics are distributed like “Ants”—millions of small, innocuous packets moving through the standard civilian arteries.
 
 *   **The Failure:** We are waiting for a “Build-up Signal” that will never come. The build-up is happening in plain sight, disguised as “Holiday Traffic.”
-*   **The Typhoon Insertion:** This aligns with a “Disaster Relief” narrative. If a Typhoon hits Taiwan (or is simulated/amplified via weather modification or cyber-sabotage of infrastructure), the PLA “Humanitarian” fleet arrives. It looks like aid. It is an invasion.
+*   **The Typhoon Insertion:** This aligns with a “Disaster Relief” narrative. If a Typhoon hits Taiwan (or its effects amplified via weather modification or cyber-sabotage of infrastructure), the PLA “Humanitarian” fleet arrives. It looks like aid. It is an invasion.
 
 ### 4. The 2028 Indicator
 The key indicator for the 2028 conflict is not a “Red Alert” on the Taiwan Strait. It is “The Civilian Alert.”
