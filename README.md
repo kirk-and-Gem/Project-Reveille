@@ -22,8 +22,8 @@ This repository rejects the "Company Man" narrative in favor of **Simulational E
 This repository contains "Briefs"—short, high-fidelity critiques and proposals derived from **First Principles Thinking**.
 
 *   [Brief 001: The Man-in-the-Loop Fallacy (The F-22 Metaphor)](docs/Brief-001-The-MITL-Fallacy.md)
-*   *Upcoming: The Variance Budget & Audacity*
-*   *Upcoming: The 2028 Logistics Anomaly (Chunyun)*
+*   [Brief 002: The Audacity Protocol (Variance Budgeting)](docs/Brief-002-The-Audacity-Protocol.md)
+*   [Brief 003: The Steganography of War (Chunyun & 2028)](docs/Brief-003-The-Steganography-of-War.md)
 
 ---
 
