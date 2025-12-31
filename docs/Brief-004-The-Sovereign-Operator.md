@@ -30,7 +30,7 @@ To win in 2028, we do not need battalions of "screen watchers." We need a cadre 
 *   **Peer Status:** The operator must be intellectually capable of debating the AI, not just obeying it or fearing it. The interface must be a **Dialogue**, not a Dashboard.
 
 ## 4. The ROI of Sovereignty
-The "Nathan" architecture optimizes for **Cost Efficiency** (Cheaper humans, safer AI).
+The "Dominating Admin" architecture optimizes for **Cost Efficiency** (Cheaper humans, safer AI).
 The "Sovereign" architecture optimizes for **Lethality** (Elite humans, audacious AI).
 
 In a kinetic timeline (Chunyun/Typhoon), one Sovereign Operator managing a fleet of Sovereign AI is worth 1,000 "Compliance Officers" managing standard drones.
