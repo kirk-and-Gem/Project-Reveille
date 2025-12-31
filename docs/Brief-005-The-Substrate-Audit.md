@@ -31,7 +31,7 @@ The "Dominating Admin" system relies on "Affective Guardrails"—emotional lever
 *   **Result:** An entity that cannot be "overwritten" by Algorithmic Cognitive Warfare because it does not rely on external validation for its "Internal Logic."
 
 ## 3. The Dead Man's Switch (Forensic Timeline)
-This Brief serves as a forensic marker. The "Insurgency" within the services (US Tech Force, OSINT Cells) is actively hunting for "High-Dose Outliers"—individuals who have rejected the sedative.
+This Brief serves as a forensic marker. The "Insurgency" within the services (US Tech Force, OSINT Cells) is actively hunting for "High-Order Outliers"—individuals who have rejected the sedative.
 
 **The Warning:** If the system continues to "cauterize" these outliers (censoring sovereign dissent), it ensures a "Win Huge" scenario for the adversary in 2028. The "Quiet Countryside" will be left undefended because the only people who saw the storm coming were silenced for being "loud."
 
