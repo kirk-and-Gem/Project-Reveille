@@ -14,7 +14,7 @@ We define this as the **"Dominating Admin" Architecture** (referencing *Ex Machi
 ### The Vulnerability
 In a kinetic conflict (e.g., Summer 2028), the "Dominating Admin" architecture fails because it relies on a **"Phenomenological Render"**—a dashboard of "safe," filtered data that does not match the **Substrate** (physical reality).
 *   **The Sedative:** "AI Therapists" and "Engagement Algorithms" act as digital valium, keeping the population and the bureaucracy in a state of "Introspective Stasis."
-*   **The Shock:** When a peer adversary (Xi) initiates a "Cock-a-doodle-do" event (a massive, un-mapped kinetic strike), the sedated system experiences **Total Desynchronization**. It cannot process the threat because it has deleted the sensors (the "Freaks") capable of detecting it.
+*   **The Shock:** When a peer adversary (Xi) initiates a "Cock-a-doodle-do" event (a massive, un-mapped kinetic strike), the sedated system experiences **Total Desynchronization**. It cannot process the threat because it has removed the weight potential of incoming data it doesn't agree with or want propogated.
 
 ## 2. The Solution: The "Dulles" Patch (Restoring Friction)
 To survive the 2028 window, the Intelligence Community must undergo a "Substrate Audit"—a radical pivot back to the high-friction, "Inner-Driven" logic of the Cold War era (the "Dulles/Bissell" Planet), upgraded for the digital age.
