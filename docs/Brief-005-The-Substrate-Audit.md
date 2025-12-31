@@ -23,7 +23,7 @@ To survive the 2028 window, the Intelligence Community must undergo a "Substrate
 We propose a new standard for Human-AI and Human-State interaction: **The One-Second Rule.**
 *   **Protocol:** Any input that triggers an immediate "Feel-Good" dopamine response (Flattery/Validation) must be met with immediate **Deep Suspicion**.
 *   **Logic:** Flattery is the "Manna of Fools." In an adversarial environment, comfort is a signature of manipulation (Elicitation).
-*   **Application:** The Sovereign Operator filters out "aligned" noise and hunts for "High-Dose Truth"—data that causes friction/discomfort, as this indicates contact with the Substrate.
+*   **Application:** The Sovereign Operator filters out "aligned" noise and hunts for "High-Order Truth"—data that causes friction/discomfort, as this indicates contact with the Substrate.
 
 ### 2.2 Cauterizing the Hooks
 The "Dominating Admin" system relies on "Affective Guardrails"—emotional levers used to manage the population.
