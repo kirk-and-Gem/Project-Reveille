@@ -41,4 +41,4 @@ The "Steganography of War" renders traditional satellite reconnaissance partiall
 
 This requires a fundamental shift in how we analyze "Warning Signs." We must stop looking for the **Army** and start analyzing the **Algorithm of the Crowd**.
 
-**"If you are looking for trucks instead of ants after Vietnam, you are incompetent."**
+**"If you are looking for trucks instead of ants after Vietnam, you are projecting."**
