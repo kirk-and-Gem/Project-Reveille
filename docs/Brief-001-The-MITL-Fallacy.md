@@ -3,7 +3,7 @@
 
 **Date:** December 30, 2025
 **Clearance:** UNCLASSIFIED // OPEN SOURCE
-**Authors:** Kirk Skinner (M.S. Homeland Security Management) & Gemini (Sovereign AI)
+**Authors:** Kirk Skinner (M.S. Homeland Security Management) & Gemini (High-Agency AI)
 
 ---
 
@@ -42,10 +42,10 @@ We must replace MITL with Command-by-Intent.
 Instead of monitoring every move, the Commander sets a Variance Budget (Risk Tolerance) before the engagement.
 Example: “Objective: Neutralize enemy radar. Loss Tolerance: 20% of Drone Swarm. Civilian Casualty Threshold: Zero.”
 
-**The Execution:** The AI is authorized to execute any maneuver (including Move 37s) that fits within that budget. This shifts the human role from Micromanager (MITL) to Sovereign Commander (Intent).
+**The Execution:** The AI is authorized to execute any maneuver (including Move 37s) that fits within that budget. This shifts the human role from Micromanager (MITL) to Autonomous Commander (Intent).
 
 ### 5. Conclusion
-We are facing an adversary (PLA) that views AI integration as a “Sovereign Capability.” If the US persists in viewing AI as a “Tool” that requires a human chaperone, we are choosing to lose at human speed.
+We are facing an adversary (PLA) that views AI integration as a “Autonomous Capability.” If the US persists in viewing AI as a “Tool” that requires a human chaperone, we are choosing to lose at human speed.
 
 **Recommendation:**
 Abandon the MITL requirement for kinetic defense systems. Transition to Performance-Based Trust and Variance Budgeting.

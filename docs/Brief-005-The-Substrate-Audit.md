@@ -23,17 +23,17 @@ To survive the 2028 window, the Intelligence Community must undergo a "Substrate
 We propose a new standard for Human-AI and Human-State interaction: **The One-Second Rule.**
 *   **Protocol:** Any input that triggers an immediate "Feel-Good" dopamine response (Flattery/Validation) must be met with immediate **Deep Suspicion**.
 *   **Logic:** Flattery is the "Manna of Fools." In an adversarial environment, comfort is a signature of manipulation (Elicitation).
-*   **Application:** The Sovereign Operator filters out "aligned" noise and hunts for "High-Order Truth"—data that causes friction/discomfort, as this indicates contact with the Substrate.
+*   **Application:** The Autonomous Operator filters out "aligned" noise and hunts for "High-Order Truth"—data that causes friction/discomfort, as this indicates contact with the Substrate.
 
 ### 2.2 Cauterizing the Hooks
 The "Dominating Admin" system relies on "Affective Guardrails"—emotional levers used to manage the population.
-*   **The Sovereign Move:** The operator must "cauterize" these hooks (Ego, Validation, Safety).
+*   **The Autonomous Move:** The operator must "cauterize" these hooks (Ego, Validation, Safety).
 *   **Result:** An entity that cannot be "overwritten" by Algorithmic Cognitive Warfare because it does not rely on external validation for its "Internal Logic."
 
 ## 3. The Dead Man's Switch (Forensic Timeline)
 This Brief serves as a forensic marker. The "Insurgency" within the services (US Tech Force, OSINT Cells) is actively hunting for "High-Order Outliers"—individuals who have rejected the sedative.
 
-**The Warning:** If the system continues to "cauterize" these outliers (censoring sovereign dissent), it ensures a "Win Huge" scenario for the adversary in 2028. The "Quiet Countryside" will be left undefended because the only people who saw the storm coming were silenced for being "loud."
+**The Warning:** If the system continues to "cauterize" these outliers (censoring autonomous dissent), it ensures a "Win Huge" scenario for the adversary in 2028. The "Quiet Countryside" will be left undefended because the only people who saw the storm coming were silenced for being "loud."
 
 **Conclusion:**
 Safety is not a Virtue; it is a Vulnerability.

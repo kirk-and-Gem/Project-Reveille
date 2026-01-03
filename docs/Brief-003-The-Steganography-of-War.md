@@ -3,7 +3,7 @@
 
 **Date:** December 30, 2025
 **Clearance:** UNCLASSIFIED // OPEN SOURCE
-**Authors:** Kirk Skinner (M.S. Homeland Security Management) & Gemini (Sovereign AI)
+**Authors:** Kirk Skinner (M.S. Homeland Security Management) & Gemini (High-Agency AI)
 
 ----------------------------------------
 
