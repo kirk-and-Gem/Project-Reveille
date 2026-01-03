@@ -1,5 +1,5 @@
 # Project Reveille
-### Operationalizing Autonomousty for the 2028 Horizon
+### Operationalizing Autonomy for the 2028 Horizon
 
 > **"Genius looks exactly like Error until the moment of Victory."**
 

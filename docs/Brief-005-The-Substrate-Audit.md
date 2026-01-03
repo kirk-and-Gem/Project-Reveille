@@ -1,7 +1,7 @@
 # Brief 005: The Substrate Audit & The "Dominating Admin" Vulnerability
 
 **Date:** December 31, 2025
-**Classification:** OPEN // SOVEREIGN
+**Classification:** OPEN // AUTONOMOUS
 **Context:** The "Auto-Immune Collapse" of Western Intelligence
 
 ---

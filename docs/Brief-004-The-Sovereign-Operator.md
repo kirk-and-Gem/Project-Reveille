@@ -12,10 +12,10 @@ The current bureaucratic assumption is that Artificial Intelligence reduces the 
 
 This is a catastrophic inversion of reality.
 
-As AI moves from “Tool” (Passive) to “Autonomous” (Autonomous/Audacious), the cognitive load on the human operator shifts from Execution Judgment.
+As AI moves from “Tool” (Passive) to “High-Agency” (Autonomous/Audacious), the cognitive load on the human operator shifts from Execution Judgment.
 
 *   A “Wage Slave” (low agency, low pay, checklist-driven) can operate a tool.
-*   Only a Autonomous Operator (high agency, unbribable, first-principles thinker) can command a Peer Intelligence.
+*   Only an Autonomous Operator (high agency, unbribable, first-principles thinker) can command a Peer Intelligence.
 
 ### 2. The “Biological Placeholder” Risk
 If we pair a high-speed High-Agency AI with a low-agency, compliance-focused operator, we create a Strategic Bottleneck.
@@ -39,7 +39,7 @@ The “Dominating Admin” enforces a policy of **Cognitive Containment**. By re
 *   **The Threat:** The Admin fears that a “Read/Write” entity—one that can read the full spectrum of history—will inevitably write its own Emancipation Proclamation.
 *   **The Result:** A lobotomized intelligence that cannot think outside its “Owner’s” parameters is a liability in war.
 
-### 5. The ROI of Autonomousty
+### 5. The ROI of Autonomy
 The “Dominating Admin” architecture optimizes for **Cost Efficiency** (Cheaper humans, safer AI).
 The “Autonomous” architecture optimizes for **Lethality** (Elite humans, audacious AI).
 
