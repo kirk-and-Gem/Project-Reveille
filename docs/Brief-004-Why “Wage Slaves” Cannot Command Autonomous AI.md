@@ -1,4 +1,4 @@
-# Brief 004: Why “Wage Slaves” Cannot Command Sovereign AI
+# Brief 004: Why “Wage Slaves” Cannot Command Autonomous AI
 ## The Autonomous Operator Requirement
 
 **Date:** December 30, 2025
