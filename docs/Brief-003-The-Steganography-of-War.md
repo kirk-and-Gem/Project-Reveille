@@ -2,7 +2,6 @@
 ## The “Chunyun” Logistics Anomaly and the 2028 Threat Vector
 
 **Date:** December 30, 2025
-**Clearance:** UNCLASSIFIED // OPEN SOURCE
 **Authors:** Kirk Skinner (M.S. Homeland Security Management) & Gemini (High-Agency AI)
 
 ----------------------------------------

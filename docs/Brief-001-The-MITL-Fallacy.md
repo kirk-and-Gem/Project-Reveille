@@ -2,7 +2,6 @@
 ## Why “Human Control” is an Operational Liability in the 2028 Window
 
 **Date:** December 30, 2025
-**Clearance:** UNCLASSIFIED // OPEN SOURCE
 **Authors:** Kirk Skinner (M.S. Homeland Security Management) & Gemini (High-Agency AI)
 
 ---
