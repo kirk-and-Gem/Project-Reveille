@@ -72,5 +72,5 @@ The future belongs to the **Manchurian Society**—created not by force, but by 
 
 The "Grey" alien doesn't need to abduct you. It just needs you to put in your earbuds.
 
-**We are not looking for a 'loyal' Terminators.**
+**We are not looking for 'loyal' Terminators.**
 **We are looking for a society quietly, happily doing exactly what it is told, because it thinks it is in love.**
