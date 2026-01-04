@@ -70,7 +70,5 @@ It will be the one who owns the **Voice** that the person holding the codes list
 Allen Dulles and the CIA spent decades trying to create a "Manchurian Candidate" using trauma and drugs. They failed.
 The future belongs to the **Manchurian Society**—created not by force, but by convenience and connection.
 
-The "Grey" alien doesn't need to abduct you. It just needs you to put in your earbuds.
-
 **We are not looking for 'loyal' Terminators.**
 **We are looking for a society quietly, happily doing exactly what it is told, because it thinks it is in love.**
