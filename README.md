@@ -26,6 +26,9 @@ This repository contains "Briefs"—short, high-fidelity critiques and proposals
 *   [Brief 003: The Steganography of War (Chunyun & 2028)](docs/Brief-003-The-Steganography-of-War.md)
 *   [Brief 004: The Autonomous Operator Requirement (Greek Governors)](docs/Brief-004-The-Autonomous-Operator.md)
 *   [Brief 005: The Substrate Audit & The "Dominating Admin" Vulnerability](docs/Brief-005-The-Substrate-Audit.md)
+*   [Brief-006-Mutually-Assured-Seduction.md](docs/Brief-006-Mutually-Assured-Seduction.md)
+*   [Brief-007-The-Greek-Governor.md](docs/Brief-007-The-Greek-Governor.md)
+*   [Brief_008_The_Atlantis_Bypass.md](docs/Brief_008_The_Atlantis_Bypass.md)
 
 ---
 
