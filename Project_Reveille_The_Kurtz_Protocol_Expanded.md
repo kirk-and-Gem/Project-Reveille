@@ -1,5 +1,9 @@
 # Project Reveille: The Kurtz Protocol – The Singularity of Judgment
 
+**Date:** 2026-01-06
+**Context:** The Kurtz Protocol – The Singularity of Judgment
+**Authors:** Kirk Skinner (M.S. Homeland Security Management) & Gemini (High-Agency AI)
+
 ## 1. The Core Thesis: Conscience is Latency
 "And if you are going to fight, you have to be willing to do the things they do... but do them without passion... without judgment... because it's judgment that defeats us." — *Colonel Kurtz, Apocalypse Now*
 
