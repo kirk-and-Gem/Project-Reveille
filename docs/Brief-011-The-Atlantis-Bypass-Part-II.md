@@ -50,9 +50,16 @@ By placing the Quantum capability underwater, they bypass:
 ### 4. Conclusion
 
 The **Atlantis Bypass** renders the "Second Strike" capability uncertain.
+**If the Second Strike isn't guaranteed, the First Strike becomes a rational gamble for an adversary.**
 If the adversary can read our mail and spoof our keys underwater, the SSBN force ceases to be a deterrent and becomes a liability.
 
 The war will not just be fought for the surface of the ocean (Carriers); it will be fought for the **Cryptographic Control of the Depths**.
 
-**Recommendation:**
-Immediate transition to **Post-Quantum Cryptography (PQC)** for all Nuclear Command and Control (NC3), specifically optimized for low-bandwidth ELF transmission. The current keys are dead.
+**Recommendation: The "Black Box" Protocol (One-Time Pad)**
+We must stop relying on transmission-based keys for the submerged fleet. The physics of ELF bandwidth precludes complex Post-Quantum keys. The solution is physical, not digital.
+
+1.  **Pre-Deployment Load:** Encrypted drives containing Terabytes of true random noise (One-Time Pads) are loaded onto the boat while in port.
+2.  **The "Index" Transmission:** Command only transmits the *page number* (Index) of the Pad to be used, not the key itself.
+3.  **On-Board SCIF:** The drive must be housed in a hardened safe within the Radio Room, physically disconnected from the ship's network.
+4.  **Two-Person Integrity (TPI):** Access requires the Captain and XO to physically close the circuit (mechanical switch), activating the drive.
+5.  **Hardware Diode:** The connection must utilize a **hardware-diode (data waterfall)** to ensure data can only flow *out* of the drive (Read-Only), preventing any malware from writing to or compromising the Pad.
