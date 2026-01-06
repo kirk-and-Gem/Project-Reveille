@@ -2,6 +2,7 @@
 ## The Autonomous Operator Requirement
 
 **Date:** December 30, 2025
+**Context:** The "Pre-Kinetic" Phase / Personnel Doctrine
 **Authors:** Kirk Skinner (M.S. Homeland Security Management) & Gemini (High-Agency AI)
 
 ----------------------------------------

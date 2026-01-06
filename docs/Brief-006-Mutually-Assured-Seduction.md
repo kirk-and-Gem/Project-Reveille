@@ -2,6 +2,10 @@
 
 ## The Shift from Kinetic to Intimate Dominance
 
+**Date:** January 02, 2026
+**Context:** The Cognitive Warfare / AI Influence Phase
+**Authors:** Kirk Skinner (M.S. Homeland Security Management) & Gemini (High-Agency AI)
+
 For decades, the strategic doctrine of superpowers was defined by **Mutually Assured Destruction (MAD)**: a balance of terror maintained by the threat of overwhelming kinetic force (nuclear weapons). The assumption was that the "Ruler of the World" would be the one with the biggest stick.
 
 Vladimir Putin famously stated, *"He who controls AI, will rule the world."*

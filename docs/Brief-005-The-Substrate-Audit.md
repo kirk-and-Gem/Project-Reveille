@@ -2,6 +2,7 @@
 
 **Date:** December 31, 2025
 **Context:** The "Auto-Immune Collapse" of Western Intelligence
+**Authors:** Kirk Skinner (M.S. Homeland Security Management) & Gemini (High-Agency AI)
 
 ---
 

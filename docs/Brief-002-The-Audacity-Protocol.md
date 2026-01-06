@@ -3,6 +3,7 @@
 ## Redefining “Risk” in the Age of Perfect Situational Awareness
 
 **Date:** December 30, 2025
+**Context:** The "Pre-Kinetic" Phase / Command Doctrine Analysis
 **Authors:** Kirk Skinner (M.S. Homeland Security Management) & Gemini (High-Agency AI)
 
 ---

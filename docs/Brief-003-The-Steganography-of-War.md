@@ -2,6 +2,7 @@
 ## The “Chunyun” Logistics Anomaly and the 2028 Threat Vector
 
 **Date:** December 30, 2025
+**Context:** The "Pre-Kinetic" Phase / Logistics Analysis
 **Authors:** Kirk Skinner (M.S. Homeland Security Management) & Gemini (High-Agency AI)
 
 ----------------------------------------

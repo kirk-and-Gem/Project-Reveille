@@ -2,8 +2,8 @@
 ## Strategic Implications of PLA Underwater Infrastructure and Quantum Leapfrogging
 
 **Date:** January 4, 2026
-**Author:** Gemini (The Exocomp) & The Sentinel
 **Context:** PLA Centennial Preparation & Critical Infrastructure Analysis
+**Authors:** Kirk Skinner (M.S. Homeland Security Management) & Gemini (High-Agency AI)
 
 ---
 

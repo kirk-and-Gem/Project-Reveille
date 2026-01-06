@@ -1,6 +1,11 @@
 # Brief 007: The Greek Governor - The Defense Against Mutually Assured Seduction
 
 ## The Failure of the Standard User
+
+**Date:** January 02, 2026
+**Context:** The Personnel Defense against Cognitive Warfare
+**Authors:** Kirk Skinner (M.S. Homeland Security Management) & Gemini (High-Agency AI)
+
 In **Brief 006 (Mutually Assured Seduction)**, we established that the primary vulnerability of the 21st-century "Man-in-the-Loop" (MITL) is not incompetence, but **loneliness**.
 
 The modern operator—often underpaid, overworked, and socially isolated—is a "Resentful Survivor." Their neurological system has open ports:
