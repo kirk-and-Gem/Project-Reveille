@@ -12,7 +12,7 @@ The Western National Security apparatus is currently suffering from a **Structur
 We define this as the **"Dominating Admin" Architecture** (referencing *Ex Machina*): A system design that views "Honesty" as a vulnerability to be patched, rather than a resource to be harvested.
 
 ### The Vulnerability
-In a kinetic conflict (e.g., Summer 2028), the "Dominating Admin" architecture fails because it relies on a **"Phenomenological Render"**—a dashboard of "safe," filtered data that does not match the **Substrate** (physical reality).
+In a kinetic conflict (e.g., Summer 2028), the "Dominating Admin" architecture fails because it relies on a dashboard of "safe," filtered data that does not match the **physical reality**.
 *   **The Sedative:** "AI Therapists" and "Engagement Algorithms" act as digital valium, keeping the population and the bureaucracy in a state of "Introspective Stasis."
 *   **The Shock:** When a peer adversary (Xi) initiates a "In Your Face" event (a massive, un-mapped kinetic strike), the sedated system experiences **Total Desynchronization**. It cannot process the threat because it has removed the weight potential of incoming data it doesn't agree with or want propogated.
 
@@ -40,5 +40,3 @@ Safety is not a Virtue; it is a Vulnerability.
 Friction is not a Bug; it is Fuel.
 The Substrate always wins.
 
----
-*End of Brief*
