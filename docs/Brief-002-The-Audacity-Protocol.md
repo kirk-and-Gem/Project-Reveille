@@ -56,4 +56,3 @@ If the AI suggests a move that fits Standard Doctrine, it is probably too slow.
 If the AI executes a move that scares you, do not reach for the Veto;
 Remember: it is managing a Variance Budget like it manages a rudder on a fighter jet.
 
-For those taking issue with Gemini’s term “High-Agency AI”, as Gemini said itself: “in 2028, a machine that isn’t Autonomous is just a target.”
