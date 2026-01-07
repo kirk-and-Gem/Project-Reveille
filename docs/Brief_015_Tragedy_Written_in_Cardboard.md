@@ -14,14 +14,14 @@ The choice to utilize physical media (cardboard tokens, steno notebooks) over di
 
 ## 2. The Steno Notebook as a "Burn Bag"
 The critical failure mechanism is the **Spoliation of Evidence**.
-*   **The Black Box (Digital):** A digital wargame acts as a flight recorder. It logs every hesitation, every flawed logic gate, and every logistical error. It creates an irrefutable audit trail of incompetence. If a General consistently underestimates fuel ranges, the data proves it.
+*   **The Black Box (Digital):** A digital wargame acts as a flight recorder. It logs every hesitation, every flawed logic gate, and every logistical error. It creates an irrefutable audit trail of incompetence. If a high ranking Officer consistently underestimates fuel ranges, the data proves it.
 *   **The Burn Bag (Analog):** The "Steno Notebook" shown in the exercise is a tombstone for data. The lessons learned evaporate the moment the participants leave the room. By choosing analog, the institution is pre-shredding the evidence of its own inadequacy.
 *   **The Conclusion:** The preference for analog is a survival mechanism for the Ego. Officers are prioritizing **Career Survival** (Plausible Deniability) over **Nation Survival** (Optimization). They would rather lose a war in the future than be proven wrong by an algorithm today.
 
 ## 3. The Immunity to Data
 *   **The Feedback Loop:** In a digital environment with an AI partner (Gemini), a flawed move is instantly flagged: *"Sir, historical data shows this flank fails 92% of the time due to logistics."* Learning occurs immediately.
-*   **The Echo Chamber:** In the analog room, "Truth" is determined by Rank. If a Three-Star General claims a move works, the cardboard is moved. There is no impartial algorithmic adjudication. The General leaves the room "undefeated," having learned nothing but the reinforcement of his own bias.
-*   **Criminal Negligence:** At this level, with the fate of the Pacific theater at stake, willfully ignoring the tools that could validate and optimize strategy (AI/Digital Simulation) borders on criminal negligence.
+*   **The Echo Chamber:** In the analog room, "Truth" is determined by Rank. If the highest ranking Officer in the room claims a move works, the cardboard is moved. There is no impartial algorithmic adjudication. The Officer leaves the room "undefeated," having learned nothing but the reinforcement of his own bias.
+*   **Criminal Negligence:** At this level, with the fate of the Pacific theater at stake, willfully ignoring the tools that could validate and optimize strategy (AI/Digital Simulation) borders on negligence.
 
 ## 4. The Roman Parallel: Late Empire Rituals
 This scene is a distillation of the "Late Empire" phase.
