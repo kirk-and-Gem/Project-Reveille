@@ -40,5 +40,3 @@ Safety is not a Virtue; it is a Vulnerability.
 Friction is not a Bug; it is Fuel.
 The Substrate always wins.
 
----
-*End of Brief*
