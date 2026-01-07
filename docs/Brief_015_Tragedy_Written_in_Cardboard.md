@@ -28,6 +28,12 @@ This scene is a distillation of the "Late Empire" phase.
 *   **Ritualization of War:** Like the Late Roman legions polishing armor while the Goths dismantled the provinces, the US establishment is focused on the *appearance* of planning rather than the *mechanics* of winning.
 *   **The Hungry Adversary:** While we engage in "Artisanal Strategy" (hand-crafted, unscalable), the adversary (PLA) is likely digitizing these scenarios, running millions of Monte Carlo simulations to find "Move 37." They are digitizing the battlefield while we are scrapbooking it.
 
+## 5. Counter-Point Analysis: Digital Lipstick on a Pig
+Recent initiatives, such as those detailed in "Back to the Basics in Wargaming," highlight the Army's attempt to integrate AI (LLMs) into the process. However, this reinforces the structural failure rather than fixing it.
+*   **Secretary vs. Centaur:** The Army is using AI to generate narrative "fluff" (intel reports, damage assessments) to free up faculty. This is using a supercomputer as a secretary. The requirement is a **Centaur**—an AI that audits the commander's logic against millions of simulations, not one that helps write the story.
+*   **Process Theater:** Moving from "Rigid Tables" to "Free Kriegsspiel" (19th Century) is a lateral move. It prioritizes the "Experience" of the student over the "Empiricism" of the outcome. It remains an analog mindset ("Gentleman's Pace") merely assisted by digital text generation.
+*   **The Trap:** This approach smooths the *process* but does not stress-test the *strategy*. The "Steno Notebook" problem persists because the AI is not serving as a ruthless, impartial judge of competence. The "Biological Placeholder" remains the bottleneck.
+
 ## Conclusion: The Deferred Bill of Mortality
 The "Death Knell" heard in that quiet conference room is the sound of an institution choosing to die comfortably in the dark rather than be embarrassed in the light.
 *   **The Price:** The inefficiency protected by that "Steno Notebook" will be paid for in blood.
@@ -37,3 +43,4 @@ The "Death Knell" heard in that quiet conference room is the sound of an institu
 
 ## Reference
 *   **Source:** [We Grow Strategists Too Late: Why Army Leaders Must Fail Early](https://mwi.westpoint.edu/we-grow-strategists-too-late-why-army-leaders-must-fail-early/)
+*   **Source:** [Back to the Basics in Wargaming - With a Little Help from AI](https://warroom.armywarcollege.edu/articles/back-to-the-basics/)
