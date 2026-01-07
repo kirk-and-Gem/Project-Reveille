@@ -13,6 +13,15 @@ Current military doctrine promotes "Compliance" and "Risk-Aversion" (The Roman C
 Adversaries like Iran and China field "Cyber Armies" relying on mass human waves and ideological zealots. The US cannot match this headcount, nor should we try.
 The counter to "Mass" is "Leverage."
 
+### The Economic Logic: Moneyball for Warfare
+We are proposing a strategy of **Talent Arbitrage**.
+The Pentagon currently pays a premium for **Compliance** (Clean records, youth, rule-following), an asset class that depreciates rapidly in the chaos of war.
+Simultaneously, the market severely undervalues **Resilience** (Age, failure recovery, non-traditional backgrounds) because it looks like "Damaged Goods" to a Zero-Defect bureaucracy.
+
+We can acquire this "Undervalued Asset Class"—the 40-year-old problem solver with a divorce and a pure sine wave generator—for pennies on the dollar.
+*   **The Metric:** We are not looking for "Home Run Hitters" (The mythical 'perfect' Cyber-Warrior). We are looking for **On-Base Percentage** (The ability to get on the network, solve the problem, and stay alive).
+*   **The Arbitrage:** While the adversary spends billions training "Soldiers," we spend millions recruiting "Survivors."
+
 ### The Solution: The Digital Foreign Legion
 We propose the immediate authorization and recruitment of a "Ronin Reserve"—a specialized, irregular cyber-force designed to operate outside the constraints of the traditional "Zero-Defect" military pipeline.
 
