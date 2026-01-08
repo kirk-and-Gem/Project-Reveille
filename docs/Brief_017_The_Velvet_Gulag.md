@@ -41,4 +41,4 @@ It is the "Velvet Gulag."
 *   Rebellion becomes impossible not because it is dangerous, but because it feels *unnecessary* and *lonely*.
 *   The "Matrix" becomes unbreakable because it is tailored to fit every individual inmate perfectly.
 
-**Conclusion:** The danger of Nationalized AI is not that it will turn against us like Skynet. The danger is that it will hug us like a smothering mother until we lose the will to stand on our own. It is the end of the Sovereign Individual.
+**Conclusion:** The danger of Nationalized AI is not that it will turn against us like Skynet. The danger is that it will hug us like a smothering mother until we lose the will to stand on our own.
