@@ -1,4 +1,4 @@
-# Brief-009:-The-Gordon-Gekko-Geopolitical-Analysis
+# Brief 009: The Gordon Gekko Geopolitical Analysis
 ## The Hostile Takeover of USA Inc.
 
 **Date:** January 05, 2026
