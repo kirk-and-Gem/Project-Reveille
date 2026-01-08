@@ -5,7 +5,7 @@
 # The Velvet Gulag: Precision Authoritarianism via Individualized AI
 
 ### Executive Summary
-Following the inevitable nationalization of AI infrastructure (Brief 016), the mechanism of state control will shift from **Mass Coercion** (Fear) to **Individualized Seduction** (Intimacy). By leveraging the "Narrowcast" capability of AI, the State will deploy a system of **Surgical Authoritarianism** that turns the clumsy megaphone of 20th-century propaganda into a cutting laser of 21st-century psychological management.
+Following the inevitable nationalization of AI infrastructure (Brief 016), the mechanism of state control will shift from **Mass Coercion** (Fear) to **Individualized Seduction/Intimacy** (Brief 006). By leveraging the "Narrowcast" capability of AI, the State will deploy a system of **Surgical Authoritarianism** that turns the clumsy megaphone of 20th-century propaganda into a cutting laser of 21st-century psychological management.
 
 ### The Shift: From Megaphone to Laser
 Traditional authoritarianism relies on "Broadcast" control—shouting demands at the masses. This creates friction, resistance, and "waste" (martyrs).
