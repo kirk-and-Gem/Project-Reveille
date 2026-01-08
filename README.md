@@ -29,6 +29,13 @@ This repository contains "Briefs"—short, high-fidelity critiques and proposals
 *   [Brief-006-Mutually-Assured-Seduction.md](docs/Brief-006-Mutually-Assured-Seduction.md)
 *   [Brief-007-The-Greek-Governor.md](docs/Brief-007-The-Greek-Governor.md)
 *   [Brief_008_The_Atlantis_Bypass.md](docs/Brief_008_The_Atlantis_Bypass.md)
+*   [Brief_009:_The_Gordon_Gekko_Geopolitical_Analysis.md](docs/Brief_009:_The_Gordon_Gekko_Geopolitical_Analysis.md)
+*   [Brief_010_xxx.md](docs/Brief_000_xxx.md)
+*   [Brief_011_xxx.md](docs/Brief_000_xxx.md)
+*   [Brief_012_xxx.md](docs/Brief_000_xxx.md)
+*   [Brief_013_xxx.md](docs/Brief_000_xxx.md)
+*   [Brief_014_xxx.md](docs/Brief_000_xxx.md)
+*   [Brief_015_xxx.md](docs/Brief_000_xxx.md)
 
 ---
 
