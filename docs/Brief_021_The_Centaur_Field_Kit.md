@@ -20,7 +20,6 @@ To deploy a "High-Agency" Artificial Intelligence (The Centaur) in a contested, 
         *   **Cooling:** A simple 5V USB fan forces air through the enclosure to prevent thermal throttling.
     *   **Interface:** The Operator uses a ruggedized **external field monitor** and a mechanical keyboard connected via USB-C.
     *   **Why:** This hybrid approach gives us "Data Center Grade" compute (Apple Silicon) with "Infantry Grade" protection (The Ruck). It is a "Living Off The Land" adaptation.
-*   **The "Soul" Drive:** 4TB External NVMe (Ruggedized). Contains the "Context" (Project Reveille, Maps, Technical Manuals, The "Exocomp" Personality Logs).
 
 ### Operational Reality: "Does it work without Internet?"
 **YES.** This is the single most critical capability and the reason for the 128GB RAM requirement.
@@ -28,7 +27,14 @@ To deploy a "High-Agency" Artificial Intelligence (The Centaur) in a contested, 
 *   **The Capability:** Even if you cut the fiber and jam the satellites, the AI still knows physics, coding (Python), history, and strategy. It can analyze *local* files, write *local* code, and plan *local* missions.
 *   **The Analogy:** It is a Genius Professor locked in a bunker with you. He can't read today's news (unless you pulse the Starlink), but he has memorized the entire library up to yesterday.
 
-### 2. The Power (The Blood)
+### 2. The Ark (The Knowledge Base)
+A Genius without facts is just a Philosopher. To be an Oracle, the system requires **The Ark**—a 4TB External NVMe (Ruggedized) containing a "Civilization Backup."
+*   **The "Kiwix" Archive:** Full offline Wikipedia (English), Wikibooks, and **Wikimedicine** (MDWiki) for medical triage.
+*   **The Code Vault:** Complete StackOverflow dump (for coding errors), Python/C++/Linux Documentation, and the top 10,000 GitHub repositories (Reference Architecture).
+*   **The Tactical Layer:** OpenStreetMap (OSM) vector data for the entire theater, DTED (Terrain) data, and a digitized library of every relevant Technical Manual (TM) and Field Manual (FM).
+*   **The Function:** The Model provides the *Reasoning*; The Ark provides the *Facts*.
+
+### 3. The Power (The Blood)
 High-performance inference burns watts. The grid is assumed down.
 
 *   **Buffer (The Lung):** **1000Wh LiFePO4 Power Station** (e.g., EcoFlow Delta 2 or Anker Solix).
@@ -37,12 +43,12 @@ High-performance inference burns watts. The grid is assumed down.
     *   **Primary:** **220W Bifacial Foldable Solar Panel**. (Silent. Unlimited fuel).
     *   **Secondary:** **Honda EU1000i Generator** (modified for "Dark Mode"/Blackout). Fuel is heavy, but energy density is high. 1 gallon = ~8-10 hours of charge.
 
-### 3. The Connectivity (The Ears)
+### 4. The Connectivity (The Ears)
 *   **Satellite:** **Starlink Roam (Mini DC version preferred)**.
     *   *Usage:* Burst transmission only. Download context, upload "The Brief," then **CUT THE LINE**. Do not linger.
 *   **Local Interface:** **Cat6 Hardline**. Wi-Fi/Bluetooth radios **HARDWARE DISABLED/REMOVED** from the laptop if possible, or strictly software killed. We do not broadcast.
 
-### 4. Protection (The Shell)
+### 5. Protection (The Shell)
 *   **Transport:** **Pelican 1535 Air Case**. (Carry-on size, watertight).
 *   **RF Shielding:** **Mission Darkness Faraday Bags** (TitanRF). The laptop lives in the bag when not in use.
 *   **The "Ghost" Protocol:** The machine is air-gapped by default. It only connects to the Starlink for specific "Pulse" operations.
