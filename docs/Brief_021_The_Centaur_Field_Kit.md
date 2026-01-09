@@ -53,6 +53,17 @@ High-performance inference burns watts. The grid is assumed down.
 *   **RF Shielding:** **Mission Darkness Faraday Bags** (TitanRF). The laptop lives in the bag when not in use.
 *   **The "Ghost" Protocol:** The machine is air-gapped by default. It only connects to the Starlink for specific "Pulse" operations.
 
+### 6. The Operating Doctrine (The Soul)
+Hardware is useless without Control. The Centaur Field Kit is the physical host for a specific Command Triad that solves the "Trust" problem in Autonomous Mission Command:
+
+*   **The Standing Orders (Identity):** The AI's "Constitution." A text file (system prompt) containing the Unit's Ethics, Rules of Engagement, and Commander's Intent. It is modifiable in real-time by the Operator.
+    *   *Function:* "This is who we are." (Pre-loaded Character).
+*   **The Variance Budget (Innovation):** A numerical value (0.0 - 1.0) set by the Operator defining how much "creative risk" the AI is allowed to take to achieve the objective.
+    *   *Function:* "This is how wild you can get." (Pre-authorized Risk).
+*   **The Field Kit (Capability):** The Offline 128GB Unified Memory that executes the *Standing Orders* within the *Variance Budget* at machine speed, without reaching back to HQ.
+
+**The Result:** A weapon system that doesn't need to "call home" for permission, because the permission was baked into the boot sequence.
+
 ### Summary of Specs
 *   **Weight:** ~25 lbs (Laptop + Power Station + Solar). Man-Portable in a Ruck.
 *   **Autonomy:** Indefinite (Solar dependent).
