@@ -52,3 +52,11 @@ While the US Admiral signals **"Fleet movement suspended due to undefined risk,"
 By the time the seas calm, the Syzygy passes, and the US submarine commander feels safe entering the Strait, the "Air Bridge" has already moved 20,000 troops, the beachheads are secured from the *rear*, and the "Disaster Relief" government is already broadcasting from Taipei.
 
 They use the storm as a shield because they are the only ones willing to fly through it.
+
+## 6. The Quantum Survival Paradox
+The **"Antlion Protocol"** (Weaponized Liquefaction) carries an inherent risk: melting the seafloor threatens to entomb China's own "Highlander" quantum sensor network.
+
+*   **The Threat:** When the sediment liquefies, heavy objects sink. A US *Virginia*-class submarine, expecting a solid bottom, sinks into the fluidized mud. When the event ends and the soil re-solidifies, the submarine is entombed.
+*   **The PLA Solution (Positive Buoyancy):** The Chinese sensor pods are designed as **Tension Leg Platforms**. They are positively buoyant (wanting to float) and tethered to deep-driven piles below the liquefaction zone.
+    *   **The Physics:** When the sand liquefies, the US sub sinks *down*. The Chinese sensor floats *up*, keeping its lasers and hydrophones clear of the mudflow.
+*   **Calculated Attrition:** The CMC accepts a 30-40% loss rate of these sensors as the "cost of doing business." Sacrificing a sensor grid to trap a Carrier Strike Group is a trade they will make without hesitation.
