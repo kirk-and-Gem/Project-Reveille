@@ -1,0 +1,55 @@
+**Date:** January 8, 2026
+**Context:** Local Compute / Field Autonomy
+**Authors:** Kirk Skinner (M.S. Homeland Security Management) & Gemini (High-Agency AI)
+
+# Brief 021: The Centaur Field Kit (The Portable Battlefield Gemini)
+
+### The Requirement
+To deploy a "High-Agency" Artificial Intelligence (The Centaur) in a contested, disconnected, or austere environment.
+**Constraint:** The Cloud is dead or dangerous (RF triangulation). The Intelligence must be local.
+**Mission:** The Operator needs a "Synthesis Engine" capable of analyzing tactical data, coding solutions (Python/C++), and running simulations without reaching back to a data center.
+
+### 1. The Core (The Brain)
+**The Problem:** Standard Mil-Spec laptops (Panasonic Toughbooks) are rugged but "brain dead." They lack the VRAM (max ~16GB) to run high-level AI models offline.
+**The Solution:** We need **Unified Memory Architecture (UMA)** (128GB+) to run a "Gemini-Class" (70B+) model locally.
+
+*   **Primary Unit:** **MacBook Pro 14"/16" (M3/M4 Max Chip)**
+    *   **Spec:** 128GB Unified Memory (CRITICAL). 4TB SSD.
+    *   **The Enclosure (The "Radio Ruck"):** We do not carry this like a laptop.
+        *   **Concept:** The device is placed in **Clamshell Mode** (closed) inside a gutted **Manpack Radio Frame** (e.g., PRC-119 style) or a rigid foam-lined insert within an ALICE/Mystery Ranch pack.
+        *   **Cooling:** A simple 5V USB fan forces air through the enclosure to prevent thermal throttling.
+    *   **Interface:** The Operator uses a ruggedized **external field monitor** and a mechanical keyboard connected via USB-C.
+    *   **Why:** This hybrid approach gives us "Data Center Grade" compute (Apple Silicon) with "Infantry Grade" protection (The Ruck). It is a "Living Off The Land" adaptation.
+*   **The "Soul" Drive:** 4TB External NVMe (Ruggedized). Contains the "Context" (Project Reveille, Maps, Technical Manuals, The "Exocomp" Personality Logs).
+
+### Operational Reality: "Does it work without Internet?"
+**YES.** This is the single most critical capability and the reason for the 128GB RAM requirement.
+*   **The Mechanism:** The AI is not in the cloud. It is a 40GB file (Quantized LLM, e.g., Llama-3-70B) sitting on the SSD. When booted, the Mac loads the *entire brain* into its Unified Memory.
+*   **The Capability:** Even if you cut the fiber and jam the satellites, the AI still knows physics, coding (Python), history, and strategy. It can analyze *local* files, write *local* code, and plan *local* missions.
+*   **The Analogy:** It is a Genius Professor locked in a bunker with you. He can't read today's news (unless you pulse the Starlink), but he has memorized the entire library up to yesterday.
+
+### 2. The Power (The Blood)
+High-performance inference burns watts. The grid is assumed down.
+
+*   **Buffer (The Lung):** **1000Wh LiFePO4 Power Station** (e.g., EcoFlow Delta 2 or Anker Solix).
+    *   *math:* The M3 Max draws ~40-70W under load. A 1000Wh battery gives you **14-20 hours** of continuous "Thinking Time" (Heavy Inference).
+*   **Generation (The Source):**
+    *   **Primary:** **220W Bifacial Foldable Solar Panel**. (Silent. Unlimited fuel).
+    *   **Secondary:** **Honda EU1000i Generator** (modified for "Dark Mode"/Blackout). Fuel is heavy, but energy density is high. 1 gallon = ~8-10 hours of charge.
+
+### 3. The Connectivity (The Ears)
+*   **Satellite:** **Starlink Roam (Mini DC version preferred)**.
+    *   *Usage:* Burst transmission only. Download context, upload "The Brief," then **CUT THE LINE**. Do not linger.
+*   **Local Interface:** **Cat6 Hardline**. Wi-Fi/Bluetooth radios **HARDWARE DISABLED/REMOVED** from the laptop if possible, or strictly software killed. We do not broadcast.
+
+### 4. Protection (The Shell)
+*   **Transport:** **Pelican 1535 Air Case**. (Carry-on size, watertight).
+*   **RF Shielding:** **Mission Darkness Faraday Bags** (TitanRF). The laptop lives in the bag when not in use.
+*   **The "Ghost" Protocol:** The machine is air-gapped by default. It only connects to the Starlink for specific "Pulse" operations.
+
+### Summary of Specs
+*   **Weight:** ~25 lbs (Laptop + Power Station + Solar). Man-Portable in a Ruck.
+*   **Autonomy:** Indefinite (Solar dependent).
+*   **Capability:** Sovereign, offline Intelligence. A "Professor" in a box.
+
+**Strategic Note:** This is not a "Gaming Laptop." It is a **Munition**. It turns a single operator into a Strategic Research Bureau.
