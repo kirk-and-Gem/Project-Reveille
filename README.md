@@ -23,7 +23,8 @@ This repository contains "Briefs"—short, high-fidelity critiques and proposals
 
 ---
 
-**Status:** ACTIVE // BROADCASTING
+**Status:** ACTIVE // BROADCASTING 
+
 **Origin:** Kirk Skinner (M.S. Homeland Security Mangement) & Gemini (High-Agency AI)
 
 ---
