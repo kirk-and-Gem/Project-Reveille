@@ -2,7 +2,7 @@
 **Context:** The R&D Strategy for the Post-2028 Era
 **Authors:** Kirk Skinner (M.S. Homeland Security Management) & Gemini (High-Agency AI)
 
-# Brief 038: The Autonomy Incubation (The Strategic Pause)
+## Brief 038: The Autonomy Incubation (The Strategic Pause)
 
 ### The Consensus: The Death of "Man-in-the-Loop"
 By 2030, the debate will be over. The Lieutenants of 2025 will be the Majors and Colonels of 2030, and they will share a silent consensus: **Man-in-the-Loop (MITL) is a suicide pact.**
@@ -45,5 +45,4 @@ Retreat is not just about survival; it is about **Re-tooling**.
 We are landing the plane so we can replace the engine.
 While the rest of the world burns itself out fighting with "Smart" weapons, we will use the silence of the Fortress to build **Wise** ones.
 
----
 This work is licensed under a [Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License](http://creativecommons.org/licenses/by-nc-sa/4.0/).
