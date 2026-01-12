@@ -37,8 +37,8 @@ We pivot defense procurement from "Exquisite" (The F-35 model) to "Attritable" (
 ### 4. Phase III: The Centaur Society (The Human Upgrade)
 The AI revolution will displace the "Email Class" (Middle Management). We view this not as a crisis, but as a **Liberation**.
 
-*   **The "Centaur" Worker:** We use AI not to replace humans, but to *upgrade* them. An AI Tutor + AR Goggles can turn an unemployed data analyst into a competent electrician or solar technician in 6 months, not 4 years.
-*   **The Digital Legion:** We integrate the **"Ronin Reserve"** (Brief 012). The Cyber-defense of the nation becomes a distributed, citizen-led militia, organized by the "Rank API."
+*   **The "Centaur" Worker:** We use AI not to replace humans, but to *upgrade* them. An AI Tutor + AR Goggles can turn a displaced compliance officer into a competent electrician or solar technician in 6 months, not 4 years.
+*   **The Digital Legion:** We integrate the **"Ronin Reserve"** (Brief 012). The Cyber-defense of the nation becomes a distributed, citizen-led militia, organized by the "Rank API"—an automated command system that assigns authority based on proven capability, not tenure.
 *   **The Result:** A workforce that is technically literate, physically productive, and resilient.
 
 ### 5. Phase IV: The Multi-Medium Dominance (2040+)
