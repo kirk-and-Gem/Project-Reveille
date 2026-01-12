@@ -33,11 +33,11 @@ You, the GS-15. You, the Colonel.
 *   **Your Intel:** "Five Eyes" focuses inward. Why would an ally share critical offensive intelligence with a partner who has engaged a defensive posture? The feed shifts from "Actionable" to "Informational."
 *   **Your Identity:** You spent 20 years climbing a ladder that was leaning against a specific geopolitical architecture. That architecture has been remodeled. You are an expert in "Power Projection" for a nation that is now prioritizing "Power Preservation."
 
-### 4. The Domestic Recoil
-You return to Washington. The mood isn't "Perseverance"; it's "Liquidation."
-The budget hearings aren't about "Next Gen Fighters." They are about "Force Reduction" and "Managed Decline."
-The Dollar has lost its "Exorbitant Privilege." Your pension is safe, but it buys 40% less than it did in 2026.
-You sit in the E-Ring, surrounded by the same PowerPoint slides, the same acronyms, but the energy is gone. It is a ghost town of ambition.
+### 4. The Domestic Recoil (The Pivot)
+You return to Washington. The mood isn't "Liquidation"; it's **"Reconstruction."**
+The budget hearings have shifted. The talk of "Global Force Projection" is dead, replaced by a furious energy for **"Continental Defense"** and **"Industrial Renewal."**
+The Dollar has lost its "Exorbitant Privilege," forcing a return to hard reality. We can no longer print prosperity; we have to build it.
+You sit in the E-Ring. The "Imperial" ambition is a ghost town, but down the hall, the **"National"** ambition is pouring concrete. The energy hasn't vanished; it has just been grounded.
 
 ### The Conclusion: The Pivot to Home
 This is the sound of the branch cracking. But a broken branch is not a dead tree.
