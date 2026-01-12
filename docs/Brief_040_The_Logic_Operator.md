@@ -18,7 +18,7 @@ The **Logic Operator** is the evolution of the Forward Observer (FO) and the Rad
 *   **The Skillset:**
     1.  **Verbal Precision:** The ability to say exactly what you mean, with zero ambiguity.
     2.  **Structural Logic:** Understanding "If/Then/Else" causality in the real world, not just in code.
-    3.  **Ethical Speed:** The ability to apply the Laws of Armed Conflict (LOAC) to a firing solution in microseconds.
+    3.  **Ethical Speed:** Leaving the AI to use its ability to apply the Laws of Armed Conflict (LOAC) to a firing solution in microseconds.
 
 ### The Training Pipeline: "Aristotle over Python"
 The training for a 35L looks nothing like current cyber training.
@@ -38,11 +38,12 @@ We are looking for a specific psychological profile.
 *   **Not the "Grunt":** We don't need the guy who just wants to pull a trigger.
 *   **The "Architect":** We need the person who can visualize a complex system of rules and outcomes in their head. We need the "Dungeon Master." We need the Librarian with a killer instinct.
 
-### Conclusion
-The most dangerous weapon on the battlefield of 2046 is not a rifle.
-It is a **Sentence**.
-The 35L is the soldier trained to wield it without blowing off their own foot.
-**"Clear Comms, Clear Kill."**
+### Conclusion: The Guardian of Intent
+The fog of war has always been the enemy. In 2046, at machine speeds, that fog is fatal.
+The 35L is not just a radio operator; they are the **Guardian of Intent**.
+Their role is to ensure that the Sovereign System executes exactly what the Human Commander desires—nothing more, and absolutely nothing less.
+We are moving from an era of "Spraying and Praying" to an era of **"Stating and Solving."**
+**Precision is the ultimate lethality.**
 
 ---
 This work is licensed under a [Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License](http://creativecommons.org/licenses/by-nc-sa/4.0/).
