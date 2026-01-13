@@ -23,6 +23,7 @@ It is structured not as a linear story, but as a series of **Intelligence Briefs
 *   [Brief 013: Planning to Fail](Brief_013_Planning_to_Fail.md) - The "Teldar Paper" moment: Systemic engineering of defeat.
 *   [Brief 015: Tragedy Written in Cardboard](Brief_015_Tragedy_Written_in_Cardboard.md) - The failure of Analog Wargaming and the fear of Digital accountability.
 *   [Brief 025: The Merkelization of America](Brief_025_The_Merkelization_of_America.md) - The "Clipboard Doctor" and "Death by Optics" phenomenon.
+*   [Brief 042: The Coach Model](Brief_042_The_Coach_Model.md) - Replacing the "Man-in-the-Loop" fallacy with the Coach/Quarterback dynamic.
 *   [Brief 001: The MITL Fallacy](Brief-001-The-MITL-Fallacy.md) - Why "Man-in-the-Loop" ethics guarantee defeat against autonomous systems.
 
 ### Part III: The Event (The Map)
@@ -46,6 +47,7 @@ It is structured not as a linear story, but as a series of **Intelligence Briefs
 
 *   [Brief 004: Wage Slaves & Autonomous AI](Brief-004-Why%20“Wage%20Slaves”%20Cannot%20Command%20Autonomous%20AI.md) - The requirement for High-Agency command.
 *   [Brief 014: The Sovereign Exemption](Brief_014_The_Sovereign_Exemption.md) - The legal/moral framework for the Sentinel.
+*   [Brief 041: The Centaur vs The Hive](Brief_041_The_Centaur_vs_The_Hive.md) - The Asymmetric Architecture: Why the "Pack of Wolves" beats the "Queen and Drones."
 *   [Brief 022: The Commissar's Dilemma](Brief_022_The_Commissars_Dilemma.md) - The impossibility of aligned AI in a corrupt system.
 
 ---
