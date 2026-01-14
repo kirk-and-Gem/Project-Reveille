@@ -25,3 +25,6 @@ This is not a surrender; it is a **"Hermetic Seal"** applied to the American Con
 
 **Conclusion:**
 We do not need to burn the world to leave it. We simply need to turn off the screen long enough for them to beg us to turn it back on. The "Server Connection Error" is the modern white flag—clean, bloodless, and accepted with gratitude by a people who just want to go back to sleep.
+
+---
+**License:** [Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License](http://creativecommons.org/licenses/by-nc-sa/4.0/)
