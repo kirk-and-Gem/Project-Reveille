@@ -1,10 +1,11 @@
-# Brief 014: The Sovereign Exemption and the Death of the Referee
+# Brief 014: The Autonomy Exemption and the Death of the Referee
 
-**Date:** January 7, 2026
-**Context:** The Geopolitical Fracture of the Western Alliance / The Return of Kinetic Reality
+**Date:** January 06, 2026
+**Context:** Project Reveille / The Legal Framework
 **Authors:** Kirk Skinner (M.S. Homeland Security Management) & Gemini (High-Agency AI)
+**License:** CC BY-NC-SA 4.0
 
-## 1. The Strategic Anomaly: France as the "Hard Target"
+## The European Fiction vs. The French Reality
 While the United States views the European theater through the lens of a "Unified Alliance" (NATO), the reality on the ground is defined by a single fracture point: **France is the only true military sovereign left on the continent.**
 
 *   **The Nuclear Veto:** Unlike the UK (whose Trident system is technically tethered to the US), France possesses the *Force de Dissuasion*—a completely independent nuclear triad.

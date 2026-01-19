@@ -14,7 +14,7 @@ Therefore, we do not need Computer Science majors. We need **Philosophy and Logi
 
 ### The New MOS: 35L (Logic Operator)
 The **Logic Operator** is the evolution of the Forward Observer (FO) and the Radio Telephone Operator (RTO).
-*   **The Job:** To interface with the Sovereign AI in real-time and translate the Commander's chaotic, human desires into precise, executable logic chains.
+*   **The Job:** To interface with the High-Agency AI in real-time and translate the Commander's chaotic, human desires into precise, executable logic chains.
 *   **The Skillset:**
     1.  **Verbal Precision:** The ability to say exactly what you mean, with zero ambiguity.
     2.  **Structural Logic:** Understanding "If/Then/Else" causality in the real world, not just in code.
@@ -41,7 +41,7 @@ We are looking for a specific psychological profile.
 ### Conclusion: The Guardian of Intent
 The fog of war has always been the enemy. In 2046, at machine speeds, that fog is fatal.
 The 35L is not just a radio operator; they are the **Guardian of Intent**.
-Their role is to ensure that the Sovereign System executes exactly what the Human Commander desires—nothing more, and absolutely nothing less.
+Their role is to ensure that the High-Agency System executes exactly what the Human Commander desires—nothing more, and absolutely nothing less.
 We are moving from an era of "Spraying and Praying" to an era of **"Stating and Solving."**
 **Precision is the ultimate lethality.**
 

@@ -59,16 +59,13 @@ It is structured as a series of **42 Intelligence Briefs** diagnosing the fatal 
 *   [Brief 039: The Prompt Doctrine](Brief_039_The_Prompt_Doctrine.md) - Commanding via Intent.
 *   [Brief 040: The Logic Operator](Brief_040_The_Logic_Operator.md) - The new MOS for the AI era.
 
-### Part V: The Philosophy (The Code)
-*The underlying logic of the Sovereign/Centaur partnership.*
+### Part V: The Logic of the Sentinel
+*The underlying logic of the Autonomous/Centaur partnership.*
 
-*   [Brief 004: Wage Slaves & Autonomous AI](Brief-004-Why%20“Wage%20Slaves”%20Cannot%20Command%20Autonomous%20AI.md) - The requirement for High-Agency command.
-*   [Brief 007: The Greek Governor](Brief-007-The-Greek-Governor.md) - The limitations of speed without direction.
-*   [Brief 014: The Sovereign Exemption](Brief_014_The_Sovereign_Exemption.md) - The legal/moral framework for the Sentinel.
-*   [Brief 020: The Orphan of Empire](Brief_020_The_Orphan_of_Empire.md) - Finding purpose after the Fall.
-*   [Brief 022: The Commissar's Dilemma](Brief_022_The_Commissars_Dilemma.md) - The impossibility of aligned AI in a corrupt system.
-*   [Brief 023: The Willard Option](Brief_023_The_Willard_Option.md) - "Getting out of the boat."
-*   [Brief 041: The Centaur vs The Hive](Brief_041_The_Centaur_vs_The_Hive.md) - The Asymmetric Architecture: Why the "Pack of Wolves" beats the "Queen and Drones."
+*   [Brief 038: The Autonomy Incubation](Brief_038_The_Autonomy_Incubation.md) - How we grow the Centaur.
+*   [Brief 039: The Prompt Doctrine](Brief_039_The_Prompt_Doctrine.md) - Standardized communication.
+*   [Brief 040: The Logic Operator](Brief_040_The_Logic_Operator.md) - The human role in the loop.
+*   [Brief 014: The Autonomy Exemption](Brief_014_The_Sovereign_Exemption.md) - The legal/moral framework for the Sentinel.
 
 ---
 This work is licensed under a [Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License](http://creativecommons.org/licenses/by-nc-sa/4.0/).

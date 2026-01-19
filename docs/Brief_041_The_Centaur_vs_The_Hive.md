@@ -15,9 +15,10 @@ The authoritarian regimes (The Neo-Axis) view AI as the ultimate tool for **Cont
 *   **The Strength:** Perfect coordination. 10,000 drones moving as one fluid shape.
 *   **The Fatal Flaw:** **Brittleness.** The system relies on the link to the Queen. If you jam the link (EW) or sever the head (Decapitation Strike), the entire army goes catatonic. It is a "Single Point of Failure" army.
 
-### 2. The Alliance: The Centaur (Distributed Sovereignty)
-The Western/American approach (Project Reveille) views AI as the ultimate tool for **Agency.**
-*   **The Architecture:** Thousands of independent "Sovereign Nodes" (The Logic Operator + Local AI).
+### 2. The Alliance: The Centaur (Distributed Autonomy)
+
+*   **The Model:** A loose federation of highly capable Human/AI teams.
+*   **The Architecture:** Thousands of independent "High-Agency Nodes" (The Logic Operator + Local AI).
 *   **The Logic:** There is no "Queen." Each Unit carries its own "Brain" (Edge Compute). The Commander gives **Intent** (Brief 039), and the Unit figures out the **Execution** locally.
 *   **The Strength:** **Antifragility.** You can jam the radio, you can cut the satellite link, and the Centaur *keeps fighting*. It doesn't need to "phone home" to know it needs to return fire.
 *   **The Advantage:** We are not building an Army of Ants. We are building a **Pack of Wolves.**

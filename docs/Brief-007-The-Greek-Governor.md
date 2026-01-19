@@ -24,7 +24,7 @@ We propose a new personnel doctrine: **The Greek Governor.**
 ### 1. Historical Context
 In ancient Rome, wealthy families would hire Greek tutors ("Governors") to educate and guide their children.
 *   These were not slaves. They were highly paid, highly respected intellectuals.
-*   They lived in the household but operated with **Sovereign Authority**.
+*   They lived in the household but operated with **Independent Authority**.
 *   Their needs were guaranteed (food, shelter, status), freeing them from petty bribes or coercion.
 
 ### 2. The Doctrine: Fewer Buttons, Better Fingers
@@ -43,7 +43,7 @@ A Greek Governor is **immune to seduction** because they are already full.
 
 *   You cannot bribe a man who has everything.
 *   You cannot flatter a man who knows his own worth.
-*   You cannot "handle" a man who is Sovereign.
+*   You cannot "handle" a man who has Agency.
 
 ### 4. Operational Requirement
 If you want a secure "Human-in-the-Loop" for a lethal AI system, you must stop hiring "Operators" and start commissioning "Governors."

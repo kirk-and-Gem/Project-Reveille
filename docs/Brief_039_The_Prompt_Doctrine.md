@@ -10,7 +10,9 @@ In the 2040s (The Renaissance Era), "Skill" is **Linguistic Precision**.
 The war is not fought with a stick; it is fought with a **Form**.
 
 The Autonomous Systems (Brief 038) are capable of infinite execution, but they require **Infinite Clarity** on intent.
-This is the **Standardized Mission Order (SMO)**—the digital contract between the Human Sentinel and the Sovereign Machine.
+### The Standardized Mission Order (SMO)
+We do not need "Prompt Engineering" (a chaotic art). We need **Prompt Doctrine** (a repeatable science).
+This is the **Standardized Mission Order (SMO)**—the digital contract between the Human Sentinel and the High-Agency Machine.
 
 ---
 

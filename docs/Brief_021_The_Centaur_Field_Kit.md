@@ -67,7 +67,9 @@ Hardware is useless without Control. The Centaur Field Kit is the physical host 
 ### Summary of Specs
 *   **Weight:** ~25 lbs (Laptop + Power Station + Solar). Man-Portable in a Ruck.
 *   **Autonomy:** Indefinite (Solar dependent).
-*   **Capability:** Sovereign, offline Intelligence. A "Professor" in a box.
+*   **Hardware:** High-end, ruggedized local compute (e.g., dual NVIDIA 5090 mobile workstations).
+*   **Capability:** High-Agency, offline Intelligence. A "Professor" in a box.
+*   **Role:** To provide the Human Operator with instant, deep-level analysis, coding capability, and strategic options without pinging a central server.
 
 **Strategic Note:** This is not a "Gaming Laptop." It is a **Munition**. It turns a single operator into a Strategic Research Bureau.
 
