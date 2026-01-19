@@ -14,7 +14,7 @@ The solution is not to force this generation into 20th-century models (Drafts, C
 
 ## The Mechanism: The Universal Talent Market (UTM)
 
-We propose a decentralized, AI-driven economy that shifts labor from **Compliance** (Wage Slavery) to **Contribution** (Sovereign Talent).
+We propose a decentralized, AI-driven economy that shifts labor from **Compliance** (Wage Slavery) to **Contribution** (Independent Talent).
 
 ### 1. Discovery: The AI Counselor
 The current job market relies on resumes—flat, dishonest documents that list "skills" rather than "traits."
@@ -23,10 +23,10 @@ The current job market relies on resumes—flat, dishonest documents that list "
 *   *Example:* A gamer who excels at logistical resource management in *Eve Online* is identified not as a "gamer," but as a high-potential Supply Chain Optimizer.
 
 ### 2. Monetization: The Blockchain Ledger
-We remove the friction of the "Middleman" (Corporations/Platforms) using a sovereign blockchain.
+We remove the friction of the "Middleman" (Corporations/Platforms) using an autonomous blockchain.
 *   **Smart Contracts:** Work is defined in micro-contracts. "Design this texture," "Optimize this route," "Debug this code."
 *   **Instant Settlement:** No Net-30. No HR department. You do the work, the AI verifies the output, the blockchain releases the funds.
-*   **The Result:** The individual becomes a **"Mercenary of their own Talent."** They are not an employee; they are a sovereign entity trading value for value.
+*   **The Result:** The individual becomes a **"Mercenary of their own Talent."** They are not an employee; they are an autonomous entity trading value for value.
 
 ### 3. The Venue: Work From Home (WFH) as Standard
 The "Rebuild of America" does not require mass migration to industrial hubs. It requires **Distributed Capacity.**
