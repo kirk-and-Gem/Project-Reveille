@@ -37,3 +37,8 @@ We turn our nuclear waste and cheap mercury into the building blocks of the futu
 In a Fortress Economy, we do not trade for strategic materials. **We Print Them.**
 
 Physics is the only currency that matters.
+
+---
+### Sources & Further Reading
+*   **Marathon Fusion:** "Fuel Cycle & Breeding" - Modeling the neutron capture and transmutation potential in fusion blankets. [Link](https://www.marathonfusion.com/)
+*   **General Physics Context:** Neutron capture transmutation of Mercury-198 to Gold-197 is a standard nuclear physics reaction (n, gamma) followed by beta decay.
