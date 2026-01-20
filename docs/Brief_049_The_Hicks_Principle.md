@@ -37,7 +37,7 @@ We cannot force the world to stop "rutting." The mammalian brain overrides the f
 But **Fortress America** can choose not to subsidize it.
 
 *   **The Anti-Malthusian Paycheck:** We stop paying people to reproduce. We stop incentivizing quantity over quality.
-*   **The Filter:** If you cannot support a child without state aid, the state does not aid the child; it aids the *prevention* of the child.
+*   **The Filter:** If you cannot support a child without state aid, the state does not aid the child; it provides both birth control and incentives to take them regularly e.g. gamification with something the user finds rewarding as, well, the reward.
 *   **The Logic:** This is not cruelty; it is **Hospice for a Dying Logic.** It is the refusal to let the Ponzi scheme destroy the lifeboat.
 
 ## Conclusion
