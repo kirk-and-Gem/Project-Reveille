@@ -43,5 +43,5 @@ The Guard does not tell the Gardener how to plant the roses.
 The Guard keeps the Gardener safe from the Wolves.
 The Gardener gives the Guard something worth protecting.
 
-This is not segregation; it is **Specialization.**
+This is not stratification; it is **Specialization.**
 It is the only way the "Renaissance" survives the "Wolves."
