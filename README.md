@@ -1,7 +1,7 @@
 # Project Reveille
-### Operationalizing Autonomy for the 2028 Horizon
+### Looking Back at the Future
 
-> **"Genius looks exactly like Error until the moment of Victory."**
+**A repository of strategic forecasts, architectural audits, and "High-Order" logic designed to navigate the coming inversion of the global order.**
 
 ---
 
