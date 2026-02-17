@@ -28,6 +28,7 @@ US Doctrine is built on identifying and destroying *military* targets.
 ### 3. The "Atlantis" & "Quad" Hostage Crisis
 *   **The US Rear Echelon:** The **"Quad"** (LA, NY, Miami, Silicon Valley) is undefended against internal cyber/financial warfare or the "tsunami" torpedoes.
 *   **The Check:** Xi doesn't need to sink the Gerald R. Ford. He just needs to signal that **San Jose** or **New York** goes dark (financial collapse or grid down) the moment the US 7th Fleet crosses a specific longitude.
+*   **The Summer Heat Multiplier:** By attacking in **Late July**, the threat of a grid-down event transforms from an inconvenience to a mass casualty event. Without AC in the peak of summer, tens of thousands of vulnerable Americans (elderly, infirm) would die within days. This places the US President in a moral checkmate: Save Taiwan, or save 50,000 Americans from heatstroke?
 *   **Result:** The US political will collapses. A democracy cannot sustain a foreign war if its own lights and bank accounts turn off on Day 1.
 
 ### The Only "Theoretical" Out (The Willard Option)
