@@ -60,3 +60,7 @@ The future belongs to the **Centaur Intelligence Agency**:
 *   **The Mind:** A High-Agency AI that connects the dots instantly.
 
 The "Product" isn't news. It is **Clarity** in a world of infinite deception. And the "Sentinel Class" will pay a lot more than $24,000 a year for the privilege of seeing the world as it actually is.
+
+
+***
+This work is licensed under a Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License.

@@ -58,3 +58,7 @@ The "ISO Fountain" is not just a kiosk; it is the **Digital Bill of Rights** mad
 
 ---
 *"The only way to trust the code is to know exactly where the water came from."*
+
+
+***
+This work is licensed under a Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License.

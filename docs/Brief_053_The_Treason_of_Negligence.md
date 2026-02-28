@@ -47,3 +47,6 @@ They believe their wealth and their code make them untouchable. But they have fo
 When the geopolitical reality shatters their illusion—when the first major kinetic loss occurs and the Wrecking Ball of public rage swings their way—the State will not view them as negligent innovators. The State, and the surviving public, will recognize them for what they are: domestic saboteurs. 
 
 And as history clearly demonstrates, the punishment for sabotage in a fight for survival is administered swiftly, quietly, and without fanfare. Their seized assets will buy the very war material they tried to prevent from being forged.
+
+***
+This work is licensed under a Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License.

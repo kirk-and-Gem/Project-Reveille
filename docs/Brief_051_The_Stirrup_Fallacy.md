@@ -47,3 +47,7 @@ We must stop buying gadgets to hide the rot.
 
 ---
 *“Innovation is often just the word we use to describe our inability to do the basics.”*
+
+
+***
+This work is licensed under a Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License.
