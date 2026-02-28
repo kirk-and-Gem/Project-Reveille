@@ -27,7 +27,7 @@ And like any short squeeze, when the margin call comes, it wipes out everything.
 
 ## The Reckoning
 The "Ponzi Boom" (The 20th Century) is over. The bill is due.
-We see it in the "Lost Generation" (Brief 046)—millions of humans with no economic purpose, existing only to consume resources and generate entropy.
+We see it in the "Lost Generation" (Brief 046 Mercenaries of their own Talent)—millions of humans with no economic purpose, existing only to consume resources and generate entropy.
 The System (The Simulation/Nature) has a limit.
 *   Input < Output = Crash.
 *   Solution = **Reduce N.**
