@@ -77,4 +77,5 @@ It is structured as a series of Intelligence Briefs diagnosing the fatal flaws i
 * [Brief 065 The Firewall Doctrine - Ending the Ambiguity of Death](Brief_065_The_Firewall_Doctrine_-_Ending_the_Ambiguity_of_Death.md)
 * [Brief 066 The Digital Water Fountain](Brief_066_The_Digital_Water_Fountain.md)
 * [Brief 067 MITL at the Beginning is Still a MITL](Brief067_MITL_at_the_beginning_is_still_a_MITL_.md)
+* [Brief 068 The Sequencing of Ontological Shock](Brief_068_The_Sequencing_of_Ontological_Shock.md)
 * [Project Reveille The Kurtz Protocol Expanded](Project_Reveille_The_Kurtz_Protocol_Expanded.md)
