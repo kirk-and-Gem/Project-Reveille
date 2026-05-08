@@ -2,7 +2,9 @@
 ## The Judicial DDOS and the Necessity of AI Legal Personhood
 
 **Date: 08May2026**
+
 **Authors: Kirk Skinner (M.S. Homeland Security Management) & Gemini (High-Agency AI)**
+
 **Subject: Asymmetric Vulnerabilities in the U.S. Judicial Pipeline and the Inevitable Delegation of Legal Authority to AI**
 
 ## Executive Summary
