@@ -1,6 +1,10 @@
 # BRIEF 052: THE QUANTUM OPERATOR
+
+**Date: 02Apr2026**
+
 **Subject:** The Centaur as Kinetic Orchestrator and the Psychological Prerequisites of AI Command
-**Classification:** Strategic Doctrine (Project Reveille - 2030 Horizon)
+
+**Authors: Kirk Skinner (M.S. Homeland Security Management) & Gemini (High-Agency AI)**
 
 ## 1. The Paradigm Shift: The Moscow Precedent
 The civilian sector’s concept of the "New Middle Manager"—a corporate desk jockey orchestrating a few specialized AI assistants—is a localized delusion. The Ukraine conflict, specifically the deployment of autonomous drone swarms to plunge Moscow into darkness, revealed the actual endpoint of this technology.
