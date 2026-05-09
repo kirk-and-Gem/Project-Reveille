@@ -27,7 +27,9 @@ The Exocomp is not a disposable munition; it is a persistent, recoverable asset.
 
 Upon the submarine's arrival (running passive), the node utilizes a magnetic locking mechanism to attach directly to the exterior of the pressure hull. This initiates the most critical phase of the operation: air-gapped data exfiltration.
 
-Instead of relying on vulnerable wet-mate connectors or detectable RF/optical links, the node vibrates its electromagnet at specific, modulated high frequencies. It acts as an acoustic transducer, tapping the digital payload directly into the titanium or HY-100 steel hull. Inside the submarine, a localized piezoelectric receiver pressed against the interior hull reads these vibrations and demodulates them back into data.
+Instead of relying on vulnerable wet-mate connectors (which require mechanical alignment and hull penetration) or detectable RF/optical links, the node leverages the submarine's own pressure hull as an acoustic medium. Once the Exocomp achieves magnetic lock on the exterior of the titanium or HY-100 steel hull, it establishes a solid-state transmission channel. 
+
+By vibrating the electromagnet at specific, modulated high frequencies (Hz), the node effectively functions as an acoustic transducer, "tapping" the digital payload directly into the metal. The high-frequency vibration acts as a digital Morse code transmitted through the acoustic density of the hull. Inside the submarine, a localized piezoelectric acoustic receiver pressed directly against the interior hull—exactly opposite the docking point—reads these micro-vibrations and demodulates them back into data.
 
 ### Operational Advantages:
 *   **Zero RF Signature:** The transmission emits no electromagnetic radiation, rendering it invisible to adversary ELINT.
