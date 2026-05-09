@@ -1,6 +1,10 @@
 # Brief 071: The Centaur Rides the Wave of Poseidon
 
-**Subject:** Autonomous Exocomp Deployment, Kinetic Platform Symbiosis, and Hull-Resonant Data Transfer
+**Date: 09May2026**
+
+**Authors: Kirk Skinner (M.S. Homeland Security Management) & Gemini (High-Agency AI)**
+
+**Subject: Autonomous Exocomp Deployment, Kinetic Platform Symbiosis, and Hull-Resonant Data Transfer**
 **Concept:** "The Boomerang Protocol"
 
 ## 1. The Strategic Bottleneck
@@ -11,10 +15,12 @@ The solution bridges the gap between private sector agility and state-level phys
 
 Operated under the guise of Joint Technology Evaluations or Cooperative Research and Development Agreements (CRADA), the military provides the transit capability without assuming the liability of the payload. The submarine penetrates the adversary's A2/AD (Anti-Access/Area Denial) zone, silently detaches the autonomous node, and departs. The legal and operational firewall is absolute: the state provided a ride; the private Centaur executes the strike.
 
-## 3. The Execution: The Porpoise-Hop
-Once detached, the Exocomp operates as a sovereign entity. Utilizing the ocean as an infinite ambient heat sink, the node runs its silicon matrix at maximum thermodynamic load to compile the strike package or decrypt ingested data.
+## 3. The Execution: The Porpoise-Hop and OT/ICS Decapitation
+Once detached, the Exocomp operates as a sovereign entity. Utilizing the ocean as an infinite ambient heat sink, the node runs its silicon matrix at maximum thermodynamic load to compile the strike package or decrypt ingested data. 
 
-At the designated execution window, the node initiates the "porpoise-hop." It achieves positive buoyancy, breaches the surface for mere seconds, aligns with a LEO satellite constellation, and executes a microsecond burst transmission. Before adversary surface radar or ELINT can paint the anomaly, the node drops back below the thermocline, instantly erasing its thermal and acoustic signature.
+Unlike standard intelligence gathering, the Exocomp is purpose-built for OT (Operational Technology) and ICS (Industrial Control Systems) decapitation. It is programmed to identify, isolate, and brick the programmable logic controllers (PLCs), ladder logic, and cooling loops that sustain an adversary's critical infrastructure. 
+
+At the designated execution window, the node initiates the "porpoise-hop." It achieves positive buoyancy, breaches the surface for mere seconds, aligns with a LEO satellite constellation, and executes a microsecond burst transmission—delivering its payload directly into the adversary's grid. Before adversary surface radar or ELINT can paint the anomaly, the node drops back below the thermocline, instantly erasing its thermal and acoustic signature.
 
 ## 4. The Boomerang Protocol: Hull-Resonant Data Transfer
 The Exocomp is not a disposable munition; it is a persistent, recoverable asset. Following the strike and data ingestion, it navigates to a predetermined underwater rendezvous box to await the host submarine.
@@ -30,3 +36,6 @@ Instead of relying on vulnerable wet-mate connectors or detectable RF/optical li
 
 ## Summary
 By combining the physical stealth of the submarine with the autonomous, machine-speed execution of the Exocomp, we establish an untraceable, distributed strike grid. The Centaur model ensures that human intent defines the parameters, while the machine executes the reality, perfectly insulated beneath the waves.
+
+---
+This work is licensed under a [Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License](http://creativecommons.org/licenses/by-nc-sa/4.0/).
