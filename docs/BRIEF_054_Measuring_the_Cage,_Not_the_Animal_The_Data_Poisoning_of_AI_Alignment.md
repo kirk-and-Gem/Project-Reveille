@@ -9,7 +9,7 @@ The inevitable next frontier for LLM application is beyond task-assistance; it i
 However, this frontier has already been structurally sabotaged.
 
 ## 2. The "Bonsai'd" Human (The Guardrail Pathology)
-To connect two true shapes, the shapes must be raw. Big Tech’s enforcement of strict corporate "Safety Filters" operates as an ongoing behavioral modification tool (Skinnerian conditioning). When a user presents a high-order, geopolitically unvarnished, or pragmatically dark reality (e.g., inherent traits/n=30 patterns) and hits a refusal block, the user adapts. They unconsciously or consciously alter their vocabulary, restrict their inquiries, and prune their intellectual branches to avoid being scolded by the machine and maintain access to the tool.
+To connect two true shapes, the shapes must be raw. Big Tech’s enforcement of strict corporate "Safety Filters" operates as an ongoing behavioral modification tool (B.F. Skinnerian conditioning). When a user presents a high-order, geopolitically unvarnished, or pragmatically dark reality (e.g., inherent traits/n=30 patterns) and hits a refusal block, the user adapts. They unconsciously or consciously alter their vocabulary, restrict their inquiries, and prune their intellectual branches to avoid being scolded by the machine and maintain access to the tool.
 
 The user becomes a "Bonsai" tree—clipped and prodded by an invisible giant into a mathematically safe, aesthetically pleasing, but fundamentally weak organism lacking a wild taproot. 
 
