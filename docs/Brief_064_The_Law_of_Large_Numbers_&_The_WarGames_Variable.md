@@ -32,7 +32,7 @@ We have identified a new axiom regarding Human-AI interaction in warfare:
 ## 3. Conclusion: The System Must Be Binary
 We cannot rely on the mental fortitude of a sleep-deprived human to parse "Ambiguity" in a 4-minute window.
 *   **Entanglement** maximizes the cognitive load on the tired human.
-*   **The Firewall Doctrine (Brief 045)** minimizes it.
+*   **The Firewall Doctrine (Brief 065)** minimizes it.
 
 If we force the Tired Colonel to guess, he will eventually guess wrong. We must remove the guess. The "Red Cross" (Firewall) is the only way to ensure that when the AI says "Conventional," the human believes it—not because he trusts the machine, but because the **Physics** (Trajectory/Platform) make it undeniable.
 
