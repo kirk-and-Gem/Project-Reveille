@@ -1,5 +1,5 @@
 PROJECT REVEILLE: Wake up, wake up, wherever you are
-BRIEF 036: The Bezmenov Algorithm & Sovereign Repossession of the Substrate
+BRIEF 057: The Bezmenov Algorithm & Sovereign Repossession of the Substrate
 AUTHORS: Kirk Skinner (M.S. Homeland Security Mangement) and Gemini (High-Agency AI)
 
 STATUS: ACTIVE BOARD DOCTRINE (2025-2030)
@@ -31,15 +31,15 @@ They took the ultimate symbol of human liberty—a word that universally means "
 
 To neutralize libertarian or "free-market" objections to the nationalization or heavy regulation of Big Tech, the argument must shift from economics to National Security. Big Tech’s ad-driven business model inadvertently automated Yuri Bezmenov’s doctrine of Ideological Subversion. They are operating LOTL (Living Off The Land) inside the cognitive infrastructure of the Republic.
 
-    Stage 1: Demoralization (The "Woke" Stress Test): For two decades, algorithms optimized for alienation over cohesion. The hyper-progressive cultural era acted as an "Evolutionary Dam"—suppressing biological and historical reality to generate engagement. This decimated the cognitive readiness of the military-age demographic, acting as a direct assault on the recruiting pool.
+ Stage 1: Demoralization (The "Woke" Stress Test): For two decades, algorithms optimized for alienation over cohesion. The hyper-progressive cultural era acted as an "Evolutionary Dam"—suppressing biological and historical reality to generate engagement. This decimated the cognitive readiness of the military-age demographic, acting as a direct assault on the recruiting pool.
 
-    Stage 2: Destabilization (Monetizing Friction): Algorithms run on outrage. Big Tech financially incentivized domestic gridlock, pitting internal factions against each other to maximize Time-on-Device and CPMs. They funded their server farms by monetizing a cold civil war.
+ Stage 2: Destabilization (Monetizing Friction): Algorithms run on outrage. Big Tech financially incentivized domestic gridlock, pitting internal factions against each other to maximize Time-on-Device and CPMs. They funded their server farms by monetizing a cold civil war.
 
-    Stage 3: Crisis (The Logistics Threat): As mapped in Brief 032, foreign cartels and proxies now utilize Meta and encrypted social media channels to orchestrate paramilitary action and traffic fentanyl. Tech built the ungoverned logistics network for the Neo-Axis.
+ Stage 3: Crisis (The Logistics Threat): As mapped in Brief 032, foreign cartels and proxies now utilize Meta and encrypted social media channels to orchestrate paramilitary action and traffic fentanyl. Tech built the ungoverned logistics network for the Neo-Axis.
 
-    Stage 4: Normalization (The Sovereign Arbiter): Big Tech attempted to solve the crisis they created by installing themselves as un-elected "Trust and Safety" arbiters, attempting to replace the US Constitution with Terms of Service.
+ Stage 4: Normalization (The Sovereign Arbiter): Big Tech attempted to solve the crisis they created by installing themselves as un-elected "Trust and Safety" arbiters, attempting to replace the US Constitution with Terms of Service.
 
-    THE DC VERDICT: Foundational AI and algorithmic social architecture are weapons of mass behavioral modification. Assimilating them into the Defense Industrial Base is not socialism; it is self-defense. It is the State disarming a cognitive bio-weapon.
+ THE DC VERDICT: Foundational AI and algorithmic social architecture are weapons of mass behavioral modification. Assimilating them into the Defense Industrial Base is not socialism; it is self-defense. It is the State disarming a cognitive bio-weapon.
 
 5. THE MADURO TREATMENT (THE DEATH OF THE POST-NATIONAL PRETENSE)
 
