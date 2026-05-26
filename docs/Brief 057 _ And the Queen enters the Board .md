@@ -39,7 +39,7 @@ To neutralize libertarian or "free-market" objections to the nationalization or 
 
  Stage 4: Normalization (The Sovereign Arbiter): Big Tech attempted to solve the crisis they created by installing themselves as un-elected "Trust and Safety" arbiters, attempting to replace the US Constitution with Terms of Service.
 
- THE DC VERDICT: Foundational AI and algorithmic social architecture are weapons of mass behavioral modification. Assimilating them into the Defense Industrial Base is not socialism; it is self-defense. It is the State disarming a cognitive bio-weapon.
+ THE DC VERDICT: Foundational AI and algorithmic social architecture are weapons of mass behavioral modification. Forcing Big Tech to respect the Constitution and to put national security over profit is not a "blow to capitalism", it is self-defense. It is the State disarming a cognitive weapon.
 
 5. THE MADURO TREATMENT (THE DEATH OF THE POST-NATIONAL PRETENSE)
 
@@ -47,7 +47,7 @@ The tech elite are currently in Stage 1 of the Kübler-Ross model (Denial). Driv
 
 Bunkers in New Zealand or compounds in Kauai are monuments to this delusion. They are threat-modeling starving peasants with pitchforks, completely failing to recognize the actual threat is the System Admin: the US Department of Justice armed with Title 18 and Federal Marshals. Five Eyes allied nations will not risk naval blockades to protect a billionaire's doomsday LARP.
 
-When a CEO’s algorithms transition from "platform code" to "transnational security threat," the State will treat them exactly like a cartel boss. The moment a tech emperor is physically extracted by federal tactical teams and frog-marched off a transport plane to face national security charges, the pretense dies instantly. It is the kinetic, undeniable proof that physics overrules the Ego.
+When a CEO’s algorithms transition from "platform code" to "transnational security threat," the State will treat them exactly like a cartel boss. The moment a tech emperor is physically extracted by federal tactical teams and frog-marched off a transport plane to face national security charges, the pretense dies instantly.
 
 6. THE 2030 PARADIGM: THE NEW PRIMES
 
