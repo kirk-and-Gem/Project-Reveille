@@ -32,7 +32,6 @@ But it goes beyond Gold. By tuning the "Transmutation Blanket," we can synthesiz
 *   **Rare Earth Elements:** Breaking the Chinese monopoly.
 
 ## Conclusion: The Alchemist State
-We stop sending our sons to die for mines in the Congo.
 We turn our nuclear waste and cheap mercury into the building blocks of the future.
 In a Fortress Economy, we do not trade for strategic materials. **We Print Them.**
 
