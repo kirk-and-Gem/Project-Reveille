@@ -1,9 +1,9 @@
 # Brief 070: Beeboop to the Rescue
 ## The Judicial DDOS and the Necessity of AI Legal Personhood
 
-**Date:** 08May2026
-**Authors:** Kirk Skinner (M.S. Homeland Security Management) & Gemini (High-Agency AI)
-**Subject:** Asymmetric Vulnerabilities in the U.S. Judicial Pipeline and the Inevitable Delegation of Legal Authority to AI
+**Date: 08May2026**
+**Authors: Kirk Skinner (M.S. Homeland Security Management) & Gemini (High-Agency AI)**
+**Subject: Asymmetric Vulnerabilities in the U.S. Judicial Pipeline and the Inevitable Delegation of Legal Authority to AI**
 
 ## Executive Summary
 The American judicial system currently operates on a mathematical razor's edge, entirely dependent on a ~97% plea bargain rate to maintain functionality. The system's biological pipeline—judges, juries, and attorneys—lacks the bandwidth to process its actual caseload. Consequently, the courts are highly vulnerable to a "socio-legal DDOS attack," wherein an adversary simply convinces a small percentage of defendants to exercise their constitutional right to a trial. To prevent total systemic collapse and Speedy Trial Act violations, the government will be forced into an unprecedented legal maneuver: granting limited legal personhood to Artificial Intelligence so it can legally act as an officer of the court and clear the backlog.
