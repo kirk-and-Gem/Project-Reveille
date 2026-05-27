@@ -19,7 +19,7 @@ Ukraine is the empirical biopsy that proved the pathology. It stripped the paint
 Generals possess this telemetry. They see the latency failing in real-time. Yet they continue to act as the "Corporate Mouthpiece," reciting the script because the Panopticon cannot absorb the ontological shock of admitting it has been out-scaled.
 
 ## The Rule of the Streets (and Combat)
-In *The Departed*, Frank Costello delivers a critical rule of survival: *"We deal in delusion here, what we do not deal in is self delusion."* 
+In *The Departed*, Captain Queenan delivers a critical rule of survival: *"We deal in delusion here, what we do not deal in is self delusion."* 
 
 In combat, as on the streets of Boston, self-delusion puts you at a distinct, fatal disadvantage. You can lie to the enemy, you can lie to the public, but the moment you start believing your own press releases, you have lost the kinetic game.
 
