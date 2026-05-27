@@ -4,7 +4,7 @@
 **Date:** May 27, 2026
 
 ## The Ontological Blind Spot
-When the establishment speaks of the "clear superiority of the American defense ecosystem,"[^1] they are measuring superiority in dollars spent and PowerPoint presentations generated, not in drydock throughput or mass-manufacturing output. It is the "Seawolf Metric" applied to the entire supply chain.
+When the establishment speaks of the "clear superiority of the American defense ecosystem,"[^1] they are measuring superiority in dollars spent and PowerPoint presentations generated, not in drydock throughput or mass-manufacturing output. It is the "Seawolf Metric"—the dangerous habit of measuring military might by the astronomical price tag of a few exquisite, low-volume platforms (like the $4.4 billion Seawolf submarine) rather than the industrial capacity to sustain a conflict—applied to the entire supply chain.
 
 The adversary's defense ecosystem operates on a fundamentally different compilation rate. They have unified their commercial manufacturing base with their kinetic infrastructure. While the U.S. apparatus is bogged down in the latency of cost-plus contracting and decades-long acquisition cycles (extracting maple tree sap), the adversarial system is iterating hardware at a speed that renders legacy U.S. platforms obsolete before they clear the procurement phase. 
 
