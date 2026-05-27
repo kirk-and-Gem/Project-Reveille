@@ -33,4 +33,4 @@ It is the perfect, logical culmination of the Panopticon’s award system. The G
 
 ***
 ### License
-This document is licensed under the MIT License.
+This work is licensed under a [Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License](http://creativecommons.org/licenses/by-nc-sa/4.0/).
