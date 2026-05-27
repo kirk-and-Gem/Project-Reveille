@@ -11,7 +11,7 @@ The adversary's defense ecosystem operates on a fundamentally different compilat
 ## The 2010 Hangover
 The year 2010 marks the exact temporal anchor of this delusion. It marks the zenith of the Counterinsurgency (COIN) era. The U.S. defense apparatus optimized itself to fight technologically inferior non-state actors from a posture of absolute air and naval supremacy. The U.S. built $100 million exquisite assets to hunt insurgents in sandals.
 
-While the U.S. was institutionalizing this paradigm, adversaries executed a multi-decade "Cost-Imposition Strategy." They weaponized the U.S. procurement cycle's own latency against it. Today, releasing a platform with a 15-year development tail means deploying a system that is mathematically obsolete the moment it touches the water.
+While the U.S. was institutionalizing this paradigm, adversaries executed a multi-decade "Cost-Imposition Strategy." They weaponized the U.S. procurement cycle's own latency against it. Today, we are playing catch up fielding COTS equipment as fast as we can while still carrying on about our superior Defense Ecosystem. We can have a superior Defense Ecosystem in the US, but saying that that is the case now is simply not realistic.
 
 ## The Ukraine Biopsy
 Ukraine is the empirical biopsy that proved the pathology. It stripped the paint off the U.S. model and demonstrated that in a peer-level conflict, mass and industrial velocity mathematically defeat low-volume, high-precision elegance. The U.S. defense apparatus builds $10 million Ferraris for a demolition derby. The conflict proved that a $500 commercial FPV drone, taped to an RPG warhead, renders an Abrams tank functionally obsolete without an umbrella of absolute air dominance. 
