@@ -4,7 +4,7 @@
 **Date:** May 27, 2026
 
 ## The Ontological Blind Spot
-When the establishment speaks of the "clear superiority of the American defense ecosystem," they are measuring superiority in dollars spent and PowerPoint presentations generated, not in drydock throughput or mass-manufacturing output. It is the "Seawolf Metric" applied to the entire supply chain.
+When the establishment speaks of the "clear superiority of the American defense ecosystem,"[^1] they are measuring superiority in dollars spent and PowerPoint presentations generated, not in drydock throughput or mass-manufacturing output. It is the "Seawolf Metric" applied to the entire supply chain.
 
 The adversary's defense ecosystem operates on a fundamentally different compilation rate. They have unified their commercial manufacturing base with their kinetic infrastructure. While the U.S. apparatus is bogged down in the latency of cost-plus contracting and decades-long acquisition cycles (extracting maple tree sap), the adversarial system is iterating hardware at a speed that renders legacy U.S. platforms obsolete before they clear the procurement phase. 
 
@@ -32,5 +32,7 @@ It is the perfect, logical culmination of the Panopticon’s award system. The G
 > *"For conspicuous denial above and beyond the call of duty, while engaged in direct combat with a hostile Senate subcommittee. The General successfully deflected three direct inquiries regarding a $40 billion procurement failure using nothing but synergistic buzzwords and an unverified PowerPoint deck, resulting in the preservation of the unit's budget allocation."*
 
 ***
+[^1]: https://www.southcom.mil/News/PressReleases/Article/4466083/southcom-establishes-autonomous-warfare-command/
+
 ### License
 This work is licensed under a [Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License](http://creativecommons.org/licenses/by-nc-sa/4.0/).
