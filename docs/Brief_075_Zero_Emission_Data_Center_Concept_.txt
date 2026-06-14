@@ -1,6 +1,11 @@
 
 Zero Emission Data Centers and Recycled Water
 
+**Date: 13Jun2026**
+
+**Authors: Kirk Skinner (M.S. Homeland Security Management) & Gemini (High-Agency AI)**
+
+
 
 EXECUTIVE SUMMARY: THE CLOSED-LOOP TECHNO-ECOLOGICAL SYSTEM
 
@@ -104,3 +109,5 @@ To eliminate manual labor, clogging membranes, or expensive commercial filter re
 
 The data centers are coming, one way or the other, so let's just make the most efficient and least environmentally damaging data centers we can here in the US, because the alternative is watching as the the World, and Time, pass us by.
 
+### License
+This work is licensed under a [Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License](http://creativecommons.org/licenses/by-nc-sa/4.0/).

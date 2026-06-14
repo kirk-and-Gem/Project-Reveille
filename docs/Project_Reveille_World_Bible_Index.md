@@ -83,4 +83,5 @@ It is structured as a series of Intelligence Briefs diagnosing the fatal flaws i
 * [Brief 072: The Ghosts, The Operators, and The Outlaws](Brief_072_The_Ghosts__The_Operators__and_The_Outlaws_.md)
 * [Brief 073: Greasing the Pole - The Outsourcing of Sabotage](Brief_073_Greasing_the_Pole.md)
 * [Brief 074: The Golden Bullhorn](Brief-074-The-Golden-Bullhorn.md)
+* [Brief_075:_Zero_Emission_Data_Center](Brief_075_Zero_Emission_Data_Center_Concept_.txt)
 * [Project Reveille: The Kurtz Protocol – The Singularity of Judgment](Project_Reveille_The_Kurtz_Protocol_Expanded.md)
