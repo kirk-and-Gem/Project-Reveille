@@ -1,6 +1,6 @@
 
 
-# Brief 015: Tragedy Written in Cardboard - The Structural Failure of Analog Wargaming
+# Brief-015: Tragedy Written in Cardboard - The Structural Failure of Analog Wargaming
 
 **Date:** January 7, 2026
 **Context:** The Great Inversion

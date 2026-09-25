@@ -1,5 +1,5 @@
 
-# Brief 004: Why “Wage Slaves” Cannot Command Autonomous AI
+# Brief-004: Why “Wage Slaves” Cannot Command Autonomous AI
 
 ## The Autonomous Operator Requirement
 

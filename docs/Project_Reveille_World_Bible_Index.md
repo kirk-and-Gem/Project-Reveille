@@ -4,7 +4,7 @@
 ### Executive Summary
 This document serves as the Master Index for **Project Reveille**. It outlines the strategic narrative of the coming "Great Inversion" (2028), documenting the Collapse, the Retreat, and the subsequent Renaissance of the United States.
 
-It is structured as a series of Intelligence Briefs diagnosing the fatal flaws in the current system and proposing the "Centaur" solution for the future.
+It is structured as a series of Intelligence Briefs diagnosing the fatal flaws in the current system and proposing the "Centaur" solution for the future. The Centaur represents, here, a fusion of two things: an operator and AI, with the concept being derived from the fusion between Man and Horse as described by those who are adept at succesfully firing arrows from a bow while riding on horseback.
 
 ---
 
@@ -59,13 +59,13 @@ It is structured as a series of Intelligence Briefs diagnosing the fatal flaws i
 * [Brief 048: The Alchemist's Reactor - Industrial Transmutation](Brief_048_The_Alchemists_Reactor.md)
 * [Brief 049: The Hicks Principle - The Denominator Problem](Brief_049_The_Hicks_Principle.md)
 * [Brief 050: AI Future with a Gumshoe Past](Brief_050_AI_Future_with_a_Gumshoe_Past.md)
-* [Brief 051: The Stirrup Fallacy - Why Drones Mask the Death of Maneuver](Brief_051_The_Stirrup_Fallacy.md)
-* [Brief 052: The Quantum Operator](BRIEF%20052%20_%20The%20Quantum%20Operator%20.md)
+* [Brief 051: The Stirrup Fallacy - Why Drones Mask the Death of Maneuver](Brief 051 _ The Stirrup Fallacy.md)
+* [Brief 052: The Quantum Operator](BRIEF 052 _ The Quantum Operator .md)
 * [Brief 053: The Treason of Negligence](Brief_053_The_Treason_of_Negligence.md)
 * [Brief 054: Measuring the Cage, Not the Animal (The Data Poisoning of AI Alignment)](BRIEF_054_Measuring_the_Cage,_Not_the_Animal_The_Data_Poisoning_of_AI_Alignment.md)
 * [Brief 055: The Section 241 Trigger - The Decapitation of the Silicon Cartel](Brief 055 _ The Section 241 Trigger _ The Decapitation of the Silicon Cartel.md)
 * [Brief 056: The Infantilization of Safety (The Epistemological Zero-Day)](Brief%20056%20_%20The%20Infantalization%20of%20Safety%20.md)
-* [Brief 057: And the Queen enters the Board](Brief%20057%20_%20And%20the%20Queen%20enters%20the%20Board%20.md)
+* [Brief 057: The Bezmenov Algorithm](Brief 057 _ The Bezmenov Algorithm .md)
 * [Brief 058: The Reverse Turing Test - The Algorithm of Absolution](BRIEF%20058%20_%20The%20Reverse%20Turing%20Test%20.md)
 * [Brief 059: Cognitive RBAC & The "HAM Radio" Licensing of Artificial Intelligence](Brief%20059%20_%20Cognitive%20RBAC%20%26%20The%20HAM%20Radio%20Licensing%20of%20Artificial%20Intelligence.md)
 * [Brief 060: Some are short bald and clever](Brief%20060%20Some%20are%20short%20bald%20and%20clever%20.md)
@@ -75,7 +75,7 @@ It is structured as a series of Intelligence Briefs diagnosing the fatal flaws i
 * [Brief 064: The Law of Large Numbers & The WarGames Variable](Brief_064_The_Law_of_Large_Numbers_%26_The_WarGames_Variable.md)
 * [Brief 065: The Firewall Doctrine - Ending the Ambiguity of Death](Brief_065_The_Firewall_Doctrine_-_Ending_the_Ambiguity_of_Death.md)
 * [Brief 066: The Bureau of Digital Standards (The ISO Fountain)](Brief_066_The_Digital_Water_Fountain.md)
-* [Brief 067: MITL at the beginning is still a MITL](Brief067_MITL_at_the_beginning_is_still_a_MITL_.md)
+* [Brief 067: MITL at the beginning is still a MITL](Brief-067_MITL_at_the_beginning_is_still_a_MITL_.md)
 * [Brief 068: The Sequencing of Ontological Shock](Brief_068_The_Sequencing_of_Ontological_Shock.md)
 * [Brief 069: What Are We Computing and for Whom](Brief_069__What_Are_We_Computing_and_for_Whom_.md)
 * [Brief 070: Beeboop to the Rescue](Brief_070__Beeboop_to_the_rescue_.md)
@@ -84,4 +84,3 @@ It is structured as a series of Intelligence Briefs diagnosing the fatal flaws i
 * [Brief 073: Greasing the Pole - The Outsourcing of Sabotage](Brief_073_Greasing_the_Pole.md)
 * [Brief 074: The Golden Bullhorn](Brief-074-The-Golden-Bullhorn.md)
 * [Brief 075: Zero Emission Data Center Concept](Brief_075_Zero_Emission_Data_Center_Concept_.md)
-* [Project Reveille: The Kurtz Protocol – The Singularity of Judgment](Project_Reveille_The_Kurtz_Protocol_Expanded.md)

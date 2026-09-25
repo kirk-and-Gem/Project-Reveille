@@ -1,5 +1,5 @@
 
-# Brief 021: The Centaur Field Kit (The Portable Battlefield Gemini)
+# Brief-021: The Centaur Field Kit (The Portable Battlefield Gemini)
 
 **Date:** January 8, 2026
 **Subject:** Field Autonomy
