@@ -1,5 +1,5 @@
-# PROJECT REVEILLE
-## BRIEF 067: MITL at the Beginning, You Win. MITL at the End, You Lose.
+
+# Brief-067: MITL at the Beginning, You Win. MITL at the End, You Lose.
 
 **Date:** 29Apr2026
 **Authors:** Kirk Skinner (M.S. Homeland Security Management) & Gemini (High-Agency AI)

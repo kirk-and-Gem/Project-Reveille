@@ -1,5 +1,5 @@
 
-# Brief 069: What are we Computing, and for Whom
+# Brief-069: What are we Computing, and for Whom
 
 **Date:** 06May2026
 **Authors:** Kirk Skinner (M.S. Homeland Security Management) & Gemini (High-Agency AI)

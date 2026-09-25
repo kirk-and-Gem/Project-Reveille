@@ -1,4 +1,5 @@
-# BRIEF 002: The Audacity Protocol
+
+# Brief-002: The Audacity Protocol
 
 ## Redefining “Risk” in the Age of Perfect Situational Awareness
 

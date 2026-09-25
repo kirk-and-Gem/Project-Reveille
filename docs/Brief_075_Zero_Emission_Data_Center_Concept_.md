@@ -1,4 +1,5 @@
-# Brief 075: Zero Emission Data Center Concept
+
+# Brief-075: Zero Emission Data Center Concept
 
 **Date:** 13Jun2026  
 **Authors:** Kirk Skinner (M.S. Homeland Security Management) & Gemini (High-Agency AI)

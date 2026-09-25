@@ -1,4 +1,6 @@
-# Brief 003: The Steganography of War
+
+# Brief-003: The Steganography of War
+
 ## The “Chunyun” Logistics Anomaly and the 2028 Threat Vector
 
 **Date:** December 30, 2025

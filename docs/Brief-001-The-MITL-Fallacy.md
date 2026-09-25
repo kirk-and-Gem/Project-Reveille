@@ -1,4 +1,6 @@
-# Brief 001: The Man-in-the-Loop (MITL) Fallacy
+
+# Brief-001: The Man-in-the-Loop (MITL) Fallacy
+
 ## Why “Human Control” is an Operational Liability in the 2028 Window
 
 **Date:** December 30, 2025

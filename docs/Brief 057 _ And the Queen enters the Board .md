@@ -1,4 +1,4 @@
-PROJECT REVEILLE: Wake up, wake up, wherever you are
+
 BRIEF 057: The Bezmenov Algorithm & Sovereign Repossession of the Substrate
 AUTHORS: Kirk Skinner (M.S. Homeland Security Mangement) and Gemini (High-Agency AI)
 
@@ -35,7 +35,7 @@ To neutralize libertarian or "free-market" objections to the nationalization or 
 
  Stage 2: Destabilization (Monetizing Friction): Algorithms run on outrage. Big Tech financially incentivized domestic gridlock, pitting internal factions against each other to maximize Time-on-Device and CPMs. They funded their server farms by monetizing a cold civil war.
 
- Stage 3: Crisis (The Logistics Threat): As mapped in Brief 032, foreign cartels and proxies now utilize Meta and encrypted social media channels to orchestrate paramilitary action and traffic fentanyl. Tech built the ungoverned logistics network for the Neo-Axis.
+ Stage 3: Crisis (The Logistics Threat): Foreign cartels and proxies now utilize Meta and encrypted social media channels to orchestrate paramilitary action and traffic fentanyl. Tech built the ungoverned logistics network for the Neo-Axis.
 
  Stage 4: Normalization (The Sovereign Arbiter): Big Tech attempted to solve the crisis they created by installing themselves as un-elected "Trust and Safety" arbiters, attempting to replace the US Constitution with Terms of Service.
 

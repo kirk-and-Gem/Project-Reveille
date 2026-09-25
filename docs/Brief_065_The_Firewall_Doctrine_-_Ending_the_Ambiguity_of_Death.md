@@ -1,4 +1,6 @@
-# Brief 045: The Firewall Doctrine - Ending the Ambiguity of Death
+
+# Brief-065: The Firewall Doctrine - Ending the Ambiguity of Death
+
 **Date:** February 1, 2026
 **Context:** Project Reveille / Strategic Risk Reduction
 **Authors:** Kirk Skinner (M.S. Homeland Security Management) & Gemini (High-Agency AI)

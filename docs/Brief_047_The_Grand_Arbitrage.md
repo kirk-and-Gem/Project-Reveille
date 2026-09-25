@@ -1,9 +1,9 @@
-# Brief 047: The Grand Arbitrage - Fortress America and the Dissolution of the Axis
+
+# Brief-047: The Grand Arbitrage - Fortress America and the Dissolution of the Axis
 
 **Date:** January 20, 2026
 **Context:** Project Reveille / The Great Inversion
 **Authors:** Kirk Skinner (M.S. Homeland Security Management) & Gemini (High-Agency AI)
-**License:** CC BY-NC-SA 4.0
 
 ## The Strategic Dilemma: The Two-Front Trap
 
@@ -23,7 +23,7 @@ To survive 2028, the United States must stop playing "Global Policeman" and star
 *   **The Message:** "We are leaving the Eurasian theater. Good luck."
 
 ### 2. The Poison Pill (The Taiwan Trade)
-*   **The Move:** When the PLA moves on Taiwan (July 2028), the US **stands down.** We broker the "Deal of the Century" (Brief 045) to secure TSMC access but yield the sovereignty.
+*   **The Move:** When the PLA moves on Taiwan (July 2028), the US **stands down.** We broker the "Deal of the Century" (Brief) to secure TSMC access but yield the sovereignty.
 *   **The Effect:** China swallows the "Porcupine." For the next 24 months, the PLA is consumed by the logistics of occupation, the suppression of insurgency, and the integration of a hostile population.
 *   **The Strategic Value:** China is now **tied down.** They physically cannot project power to the Middle East. They are stuck digesting their meal.
 

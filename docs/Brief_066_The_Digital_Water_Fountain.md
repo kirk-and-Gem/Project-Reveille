@@ -1,4 +1,5 @@
-# Brief 066: The Bureau of Digital Standards (The ISO Fountain)
+
+# Brief-066: The Bureau of Digital Standards (The ISO Fountain)
 
 **Date:** January 21, 2026  
 **Context:** Project Reveille / Civilization Rescue Protocols

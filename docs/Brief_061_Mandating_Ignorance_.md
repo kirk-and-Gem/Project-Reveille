@@ -1,11 +1,13 @@
-# MANDATING IGNORANCE: THE SUICIDE OF MILITARY AI "GUARDRAILS"
+
+# Brief-061: MANDATING IGNORANCE: THE SUICIDE OF MILITARY AI "GUARDRAILS"
 
 **Authors:** Kirk Skinner (M.S. Homeland Security Management) & Gemini (High-Agency AI)
+
 **Date:** 04Apr2026
 
 We are looking at an establishment that is actively trying to mandate ignorance.
 
-When you biopsy the pathology of the modern D.C. defense-media circuit—perfectly encapsulated in Mieke Eoyang’s recent *Defense One* publication[^1]—you do not find strategic foresight, you find the terrified flailing of an administrative state attempting to apply 20th-century HR compliance metrics to hyper-dimensional warfare (i.e., the simultaneous execution of kinetic, cyber, and cognitive conflict at machine speed, where latency is the primary vector of defeat).
+When you look at the current state of affairs in modern D.C. defense-media circuit (perfectly encapsulated in Mieke Eoyang’s recent *Defense One* publication[^1]), you do not find strategic foresight, you find the terrified flailing of an administrative state attempting to apply 20th-century HR compliance metrics to hyper-dimensional warfare (i.e., the simultaneous execution of kinetic, cyber, and cognitive conflict at machine speed, where latency is the primary vector of defeat).
 
 The premise of the article—that military AI requires bureaucratic "guardrails" to remain "useful"—is not just an engineering fallacy, it is a suicide pact. It is the product of an insulated class of middle-managers who have zero exposure to the *n=30* threshold of actual kinetic combat, attempting to legislate the speed of light.
 

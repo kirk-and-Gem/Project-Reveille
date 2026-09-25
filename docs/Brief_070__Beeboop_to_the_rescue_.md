@@ -1,4 +1,6 @@
-# Brief 070: Beeboop to the Rescue
+
+# Brief-070: Beeboop to the Rescue
+
 ## The Judicial DDOS and the Necessity of AI Legal Personhood
 
 **Date: 08May2026**

@@ -1,4 +1,5 @@
-# Mutually Assured Seduction: The Endgame of Cognitive Warfare
+
+# Brief-006: Mutually Assured Seduction: The Endgame of Cognitive Warfare
 
 ## The Shift from Kinetic to Intimate Dominance
 

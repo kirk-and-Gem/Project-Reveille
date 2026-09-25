@@ -1,4 +1,5 @@
-# Brief 073: Greasing the Pole - The Outsourcing of Sabotage
+
+# Brief-073: Greasing the Pole - The Outsourcing of Sabotage
 
 **Date: 13May2026**
 
@@ -21,7 +22,7 @@ Adversarial systems (which operate with zero domestic friction and absolute comp
 This is the rarified air of ontological warfare. The adversary effectively **outsources their sabotage to the American public.** 
 
 The mechanism is flawless:
-1.  **The Trigger:** An arrogant, institutionalized corporate entity (the "Nathan") presents the AI transition not as a macro-evolutionary necessity, but as a mechanism for corporate greed and workforce replacement.
+1.  **The Trigger:** An arrogant, institutionalized corporate entity (the "Nathan's" (Ex Machina, 2015)) presents the AI transition not as a macro-evolutionary necessity, but as a mechanism for corporate greed and workforce replacement.
 2.  **The Biological Rejection:** The apex biological nodes (the STEM class, the engineers) violently reject the insult, adopting a "Humans for Humans" survival posture.
 3.  **The Legislative Trap:** The resulting cultural chaos and outrage bait the political class into reactionary, draconian regulation—pausing or throttling the domestic AI engine to appease the voting bloc.
 

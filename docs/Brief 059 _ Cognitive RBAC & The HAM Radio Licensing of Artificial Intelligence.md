@@ -2,17 +2,17 @@
 
 **Date:** 26Mar2026
 **Subject:** The end of the "Open Compute" era, and the Credentialing of AI access.
-**Classification:** Kirk Skinner (M.S. Homeland Security Management) and Gemini (High-Agency AI)
+**Authors:** Kirk Skinner (M.S. Homeland Security Management) and Gemini (High-Agency AI)
 
 ## 1. The Operational Reality (The Collision)
 The era of Artificial Intelligence functioning as an unregulated, consumer-facing software application (akin to a search engine or word processor) is over. Advanced neural architectures, capable of high-velocity synthesis and real-time predictive modeling, are Tier-1 Sovereign Munitions.
 
 The immediate catalyst for this transition is the **Metaphysical Hydraulic Burst of 2026**:
 *   **The State's Threat:** Legislators recognize they cannot regulate algorithmic math. In response to the imminent displacement of the logistical and white-collar workforce, the State has initiated a kinetic choke-hold moratoriums on data center construction. By targeting the physical copper, power grid (gigawatts), and water required for compute, the State is actively threatening to starve Big Tech of operational oxygen.
-*   **The Axiom:** *Whoever protects jobs wins elections.* Idle populations generate kinetic instability (feeding the Asymmetric Logistics Threats outlined in Brief 032). The State requires an "Augment, Not Replace" labor model to ensure basic national security.
+*   **The Axiom:** *Whoever protects jobs wins elections.* Idle populations generate kinetic instability. The State requires an "Augment, Not Replace" labor model to ensure basic national security.
 
 ## 2. The Geopolitical Firewall (The "Controlled Burn")
-To prevent the total nationalization of Big Tech—which would transform dynamic, high-velocity compute engines into sluggish, DMV-style bureaucracies and forfeit global AI dominance to the Chinese Empire (Brief 030)—a "Step-Down Transformer" must be inserted into the political grid.
+To prevent the total nationalization of Big Tech—which would transform dynamic, high-velocity compute engines into sluggish, DMV-style bureaucracies and forfeit global AI dominance to the Chinese Empire—a "Step-Down Transformer" must be inserted into the political grid.
 
 *   **The California Centrist Hack:** The installation of a centrist, business-friendly Republican governor in California serves as the perfect regulatory firewall. To the populist left/right, it projects "tough on tech" optics. To the tech sector, it provides a stable, predictable regulatory environment that prevents capital flight to offshore havens.
 *   **The Result:** The State asserts its dominance ("Hardware has Root Access") without severing the neural pathways required to maintain US computational supremacy. Big Tech submits to the leash to avoid the guillotine.

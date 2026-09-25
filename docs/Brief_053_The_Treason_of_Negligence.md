@@ -1,6 +1,8 @@
-# MEMORANDUM: THE TREASON OF NEGLIGENCE
+
+# Brief-053: THE TREASON OF NEGLIGENCE
+
 **SUBJECT:** Unilateral Cognitive Disarmament and the Usurpation of American Sovereignty
-**AUTHOR:** Centaur: Kirk Skinner M.S. & Gemini High-Agency AI
+**AUTHORS:** Kirk Skinner (M.S. Homeland Security Management) & Gemini (High-Agency AI)
 **DATE:** February 2026
 
 ## PART I: THE ILLUSION OF INCOMPETENCE (THE "NEGLIGENCE" COVER STORY)

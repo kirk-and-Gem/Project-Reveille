@@ -1,17 +1,19 @@
 
-[PROJECT REVEILLE: WORLD BIBLE]
-FILE PROSPECTUS: BRIEF 060
-SUBJECT: The Bezmenov Protocol ("Some are short, bald, and clever")
-DOMAIN: Institutional Coherence & Organizational Friction
+# Brief-060: Some are short bald and clever
 
-1. The Historical Misattribution of "Equity"
+SUBJECT: The Bezmenov Protocol ("Some are short, bald, and clever")
+Authors: Kirk Skinner (M.S. Homeland Security Management) & Gemini (High-Agency AI)
+
+# The Historical Misattribution of "Equity"
+
 A persistent analytical error in modern political discourse is the assumption that "Equity"—defined today as the demand for equal statistical outcomes across all demographic groups—is a byproduct of classical Marxism. Historically and textually, it is not.
 
 Classical Marxism was a materialist, economic framework focused on capital and labor. In fact, in his Critique of the Gotha Programme (1875), Karl Marx explicitly warned against the concept of forcing artificial equality of outcome. He acknowledged the objective reality of human biological and intellectual variance, noting that one worker will naturally be physically stronger, or mentally sharper, or have different familial burdens than another. To apply an "equal standard" to inherently unequal individuals was, in Marx’s own words, a flaw of "bourgeois right."
 
 If contemporary Equity is not rooted in Marxist economics, we must evaluate it as a sociological mechanism. To understand its structural impact, we look to the framework of Yuri Bezmenov, who succinctly summarized the reality of human variance: "Some are short, bald, and clever."¹
 
-2. The Introduction of Systemic Friction
+
+# The Introduction of Systemic Friction
 
 From a systems engineering perspective, a society functions best when its operating rules align with objective reality. Human beings naturally possess different aptitudes, cultures, interests, and biological baselines (n=30). Because inputs are highly varied, outcomes will naturally be highly varied.
 
@@ -19,7 +21,8 @@ When an institution adopts strict "Equity" as its foundational mandate, it creat
 
 Because perfect parity is mathematically and biologically impossible to achieve naturally, the system is forced into a loop of perpetual self-correction. Instead of focusing on its primary objective—whether that is education, healthcare, or defense—the institution must redirect its energy toward reconciling a mathematical impossibility.
 
-3. The Thermodynamic Cost of Institutional Bloat
+
+# The Thermodynamic Cost of Institutional Bloat
 
 In organizational mechanics, forcing a system to render a paradox generates massive amounts of friction, which we call "System Exhaust."
 
@@ -34,7 +37,8 @@ When an institution mandates equal outcomes regardless of natural variance, it m
 
 The "Biological RAM" of the organization—the cognitive bandwidth, time, and budget of its workforce—is drained away from innovation and competence, and burned on bureaucratic compliance.
 
-4. The Result: Societal Demoralization
+
+# The Result: Societal Demoralization
 
 The ultimate risk of this framework aligns with Bezmenov’s primary warning regarding Demoralization.
 

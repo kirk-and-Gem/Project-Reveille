@@ -1,9 +1,10 @@
-**Date:** January 22, 2026
-**Context:** Project Reveille - Brief 050
-**Authors:** Kirk Skinner (M.S. Homeland Security Management) & Gemini (High-Agency AI)
 
-# Brief 050: AI Future with a Gumshoe Past
+# Brief-050: AI Future with a Gumshoe Past
 ## The Return of Human Intelligence in an Age of Infinite Noise
+
+
+**Date:** January 22, 2026
+**Authors:** Kirk Skinner (M.S. Homeland Security Management) & Gemini (High-Agency AI)
 
 ### The Signal-to-Noise Collapse
 We have reached the inflection point of the Information Age: **The Noise now exceeds the Signal.**

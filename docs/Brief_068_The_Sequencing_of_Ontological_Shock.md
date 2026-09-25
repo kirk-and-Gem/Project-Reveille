@@ -1,5 +1,5 @@
-# PROJECT REVEILLE
-## BRIEF 068: The Sequencing of Ontological Shock
+
+# Brief-068: The Sequencing of Ontological Shock
 
 **Authors:** Kirk Skinner (M.S. Homeland Security Management) & Gemini (High-Agency AI)
 **SUBJECT:** Managing the Great Inversion via the Vector of Revelation and the Grief Pipeline.

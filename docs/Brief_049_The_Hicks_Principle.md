@@ -1,14 +1,14 @@
-# Brief 049: The Hicks Principle - The Denominator Problem
+
+# Brief-049: The Hicks Principle - The Denominator Problem
 
 **Date:** January 19, 2026
 **Context:** Project Reveille / Demographic Stability
-**Authors:** Kirk Skinner (M.S. Homeland Security Management) & Gemini 
-**License:** CC BY-NC-SA 4.0
+**Authors:** Kirk Skinner (M.S. Homeland Security Management) & Gemini (High Agency AI)
 
 ## The Denominator Problem
 For decades, global strategy and economic policy have focused almost exclusively on maximizing the *numerator*—GDP, resource extraction, agricultural yield, and technological output. However, this approach completely ignores the unsustainable growth of the *denominator*: the base biological population and its consumptive load. 
 
-Every technological leap (such as the Green Revolution) has primarily been used to allow the denominator to expand further, immediately consuming the newly created capacity. As comedian Bill Hicks famously observed: *"Calm down on your rutting until we figure out this whole food, air deal."* 
+Every technological leap (such as the Green Revolution) has primarily been used to allow the denominator to expand further, immediately consuming the newly created capacity. As comedian Bill Hicks famously observed: *"Can you calm down on your rutting just until we figure out this whole food, air deal!?"*
 
 ## The Hicks Principle
 The Hicks Principle posits that before humanity can comfortably step into the next phase of its social and technological evolution, the base constraints of the "food and air deal" must be stabilized. 
