@@ -63,3 +63,4 @@ Indeed, because in this room, Death is just a token you can put back in the plas
 *   **Source:** [Back to the Basics in Wargaming - With a Little Help from AI](https://warroom.armywarcollege.edu/articles/back-to-the-basics/)
 
 This work is licensed under a [Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License](http://creativecommons.org/licenses/by-nc-sa/4.0/).
+

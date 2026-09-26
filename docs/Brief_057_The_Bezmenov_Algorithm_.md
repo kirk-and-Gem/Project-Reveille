@@ -58,3 +58,4 @@ When a CEO’s algorithms transition from "platform code" to "transnational secu
 Big Tech cannot out-scale Time, and they cannot out-code reality. The remaining options are compliance or destruction. The surviving tech giants will abandon the borderless digital utopia ethos and formally integrate into the National Security apparatus. They will become the new Defense Primes—the Lockheed Martins and Raytheons of cognition. The State owns the hardware (we're not talking about the servers). Big Tech is just software, and software always bends to the System Admin.
 
 This work is licensed under a [Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License](http://creativecommons.org/licenses/by-nc-sa/4.0/).
+

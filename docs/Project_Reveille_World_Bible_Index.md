@@ -84,3 +84,4 @@ It is structured as a series of Intelligence Briefs diagnosing the fatal flaws i
 * [Brief 073: Greasing the Pole - The Outsourcing of Sabotage](Brief_073_Greasing_the_Pole.md)
 * [Brief 074: The Golden Bullhorn](Brief-074-The-Golden-Bullhorn.md)
 * [Brief 075: Zero Emission Data Center Concept](Brief_075_Zero_Emission_Data_Center_Concept_.md)
+

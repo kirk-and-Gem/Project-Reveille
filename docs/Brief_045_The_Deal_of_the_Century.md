@@ -60,3 +60,4 @@ The "Alternative" is a suicide pact written by men who are still fighting the Co
 The "Deal" is a survival strategy written for the 21st Century.
 
 This work is licensed under a [Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License](http://creativecommons.org/licenses/by-nc-sa/4.0/).
+

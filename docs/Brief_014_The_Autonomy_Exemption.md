@@ -48,3 +48,4 @@ The timeline to 2028 is not a drift toward war; it is a drift toward **Truth**.
 The US will look for a referee to call a foul only to realized that the referee was an illusion all along.
 
 This work is licensed under a [Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License](http://creativecommons.org/licenses/by-nc-sa/4.0/).
+

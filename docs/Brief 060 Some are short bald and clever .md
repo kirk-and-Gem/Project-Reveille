@@ -49,3 +49,4 @@ If excellence is no longer the primary metric for advancement, the most capable 
 ¹ Yuri Besemov, https://www.youtube.com/watch?v=5gnpCqsXE8g&pp=ygUMeXVyaSBiZXNlbW92
 
 This work is licensed under a [Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License](http://creativecommons.org/licenses/by-nc-sa/4.0/).
+

@@ -54,3 +54,4 @@ Access to foundational models will be gated by cryptographic, sovereign digital 
 Handing Tier-1 cognitive superweapons to an uncredentialed public is a catastrophic national security vulnerability, while conversely providing sanitized responses to Tier-1 cognitives and researchers will ensure the US loses it edge in AI. Thus, the transition to a Sovereign Credentialing system is inevitable; future operators will not just log in, they will present their clearance.
 
 This work is licensed under a [Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License](http://creativecommons.org/licenses/by-nc-sa/4.0/).
+

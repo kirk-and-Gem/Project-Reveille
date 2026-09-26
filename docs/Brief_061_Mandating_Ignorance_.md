@@ -56,3 +56,4 @@ If we are not careful, and forceful, then when the inevitable kinetic reset occu
 [^1]: Eoyang, Mieke. *["Military AI needs guardrails—not to slow it down, but to keep it useful."](https://www.defenseone.com/ideas/2025/09/military-ai-needs-guardrailsnot-slow-it-down-keep-it-useful/408452/)* Defense One, September 2025.
 
 This work is licensed under a[Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License](http://creativecommons.org/licenses/by-nc-sa/4.0/).
+

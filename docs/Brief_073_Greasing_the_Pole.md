@@ -31,3 +31,4 @@ The Iron Axis does not need to drop an EMP on the American computational outpost
 
 ---
 This work is licensed under a [Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License](http://creativecommons.org/licenses/by-nc-sa/4.0/).
+

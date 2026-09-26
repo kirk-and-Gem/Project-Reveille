@@ -34,3 +34,4 @@ The "Severed Feed" strategy is not about burning the world to leave it. It is ab
 ---
 
 This work is licensed under a [Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License](http://creativecommons.org/licenses/by-nc-sa/4.0/).
+
