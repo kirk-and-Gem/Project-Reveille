@@ -1,12 +1,5 @@
-# Project Reveille: The World Bible (2026-2028)
-**"The Future History of the Great Inversion"**
+# Project Reveille
 
-### Executive Summary
-This document serves as the Master Index for **Project Reveille**. It outlines the strategic narrative of the coming "Great Inversion" (2028), documenting the Collapse, the Retreat, and the subsequent Renaissance of the United States.
-
-It is structured as a series of Intelligence Briefs diagnosing the fatal flaws in the current system and proposing the "Centaur" solution for the future. The Centaur represents, here, a fusion of two things: an operator and AI, with the concept being derived from the fusion between Man and Horse as described by those who are adept at succesfully firing arrows from a bow while riding on horseback.
-
----
 
 ### Master Index of Briefs
 
