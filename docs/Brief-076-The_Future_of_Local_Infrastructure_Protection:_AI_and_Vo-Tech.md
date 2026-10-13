@@ -19,7 +19,7 @@ NEW MODEL:  \[Local AI + Laptop\] ---(Secure Serial Cable/On-site)--\> \[Air-Gap
 ### 1. The Core Paradigm Shift
 
  Modern security requires moving from Cloud-Dependent IT to Isolated, Localized OT (Operational Technology).    
-    
+     
     
  The Air-Gap Defense: Critical systems (cooling, water, power) must be entirely disconnected from the public internet. If a system lacks an external IP address, it cannot be hacked remotely.   
     
