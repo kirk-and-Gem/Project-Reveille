@@ -77,5 +77,5 @@
 * [Brief 073: Greasing the Pole - The Outsourcing of Sabotage](Brief_073_Greasing_the_Pole.md)
 * [Brief 074: The Golden Bullhorn](Brief-074-The-Golden-Bullhorn.md)
 * [Brief 075: Zero Emission Data Center Concept](Brief_075_Zero_Emission_Data_Center_Concept_.md)
-* [Brief 076: The Future of Local Infrastructure Protection: AI and Vo-Tech.md](Brief-076-The_Future_of_Local_Infrastructure_Protection:_AI_and_Vo-Tech.md)
+* [Brief 076: The Future of Local Infrastructure Protection: AI and Vo-Tech](Brief-076-The_Future_of_Local_Infrastructure_Protection:_AI_and_Vo-Tech.md)
 
