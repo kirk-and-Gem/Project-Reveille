@@ -78,4 +78,5 @@
 * [Brief 074: The Golden Bullhorn](Brief-074-The-Golden-Bullhorn.md)
 * [Brief 075: Zero Emission Data Center Concept](Brief_075_Zero_Emission_Data_Center_Concept_.md)
 * [Brief 076: The Future of Local Infrastructure Protection: AI and Vo-Tech](Brief-076-The_Future_of_Local_Infrastructure_Protection_AI_and_Vo-Tech.md)
+* [Brief 077: A Post-Crisis Resilient Architecture for Food Supply Infrastructure](Brief-077-Data_Waterfall_and_the_Return_of_the_Local_Technician_.md)
 
