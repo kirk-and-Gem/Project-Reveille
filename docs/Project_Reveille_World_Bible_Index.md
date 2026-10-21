@@ -81,3 +81,4 @@
 * [Brief 077: A Post-Crisis Resilient Architecture for Food Supply Infrastructure](Brief-077-Data_Waterfall_and_the_Return_of_the_Local_Technician_.md)
 * [Brief 078: AI Control and the FUD machine](Brief-078-AI_Control_and_the_FUD_machine_.md)
 * [Brief 079: Autonomous Cyber-Physical OT Defense Framework](Brief-079-Autonomous_Cyber-Physical_OT_Defense_Framework_.md)
+* [Brief 080: The AI Press Corps](Brief-080-The_AI_Press_Corps_.md)
