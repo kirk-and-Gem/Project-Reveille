@@ -82,3 +82,4 @@
 * [Brief 078: AI Control and the FUD machine](Brief-078-AI_Control_and_the_FUD_machine_.md)
 * [Brief 079: Autonomous Cyber-Physical OT Defense Framework](Brief-079-Autonomous_Cyber-Physical_OT_Defense_Framework_.md)
 * [Brief 080: The AI Press Corps](Brief-080-The_AI_Press_Corps_.md)
+* [Brief-081: AI Mission Optimization the Edge](Brief-081-AI_Mission_Optimization_the_Edge_.md)
